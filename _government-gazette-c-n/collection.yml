@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Government Gazette.md
+      - Sorted by category/Audited Reports.md
       - Sorted by category/Cessation of Service.md
       - Sorted by category/Corrigendum.md
       - Sorted by category/Death.md
