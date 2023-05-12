@@ -5,4 +5,4 @@ description: ""
 ---
 | Current Notices| 
 | -------- | 
-| [Government Gazette](/current-notices/government-gazette/advertisements/) |
+| [Government Gazette](/government-gazette-c-n/government-gazette/) |
