@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Current Notices
           description: ""
-          url: /current-notices
+          url: /current-notices-page
         - title: Archives
           description: ""
           url: /archives-page/
