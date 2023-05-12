@@ -2,7 +2,7 @@ collections:
   current-notices:
     output: true
     order:
-      - Sub Legislation Supplement/.keep
-      - Acts Supplement/.keep
-      - Bill Supplement/.keep
       - Government Gazette/.keep
+      - Bill Supplement/.keep
+      - Acts Supplement/.keep
+      - Sub Legislation Supplement/.keep
