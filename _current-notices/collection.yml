@@ -2,10 +2,10 @@ collections:
   current-notices:
     output: true
     order:
-      - Supplement to Gazette/.keep
       - Government Gazette/.keep
       - Bill Supplement/.keep
       - Acts Supplement/.keep
       - Subsidiary Legislation/.keep
       - Industrial Relations/.keep
       - Treaties Supplement/.keep
+      - Supplement to Gazette/.keep
