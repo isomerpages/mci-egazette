@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - Acts Supplement/.keep
       - Government Gazette/.keep
       - Government Gazette/2023.md
       - Government Gazette/2022.md
