@@ -16,5 +16,5 @@ sections:
           url: /current-notices
         - title: Archives
           description: ""
-          url: /archives/
+          url: /archives-page/
 ---
