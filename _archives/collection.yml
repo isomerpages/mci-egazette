@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  archives:
     output: true
     order:
       - folder-page.md
