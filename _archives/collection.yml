@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Government Gazette/.keep
-      - Government Gazette/subfolder-page.md
+      - Government Gazette/Government Gazette.md
       - Bills Supplement/.keep
