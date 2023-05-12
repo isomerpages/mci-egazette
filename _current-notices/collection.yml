@@ -2,8 +2,8 @@ collections:
   current-notices:
     output: true
     order:
-      - Statutes/.keep
-      - Statutes/Advertisements.md
+      - Government Gazette/.keep
+      - Government Gazette/Advertisements.md
       - Appointments/.keep
       - Appointments/Acts Supplement.md
       - Audited Reports/.keep
