@@ -1,5 +1,5 @@
 collections:
-  government-gazette-cn:
+  government-gazette-c-n:
     output: true
     order:
       - Government Gazette CN/Advertisements.md
