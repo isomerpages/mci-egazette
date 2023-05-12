@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - Government Gazette/2022.md
       - Government Gazette/.keep
       - Government Gazette/2023.md
       - Bills Supplement/.keep
