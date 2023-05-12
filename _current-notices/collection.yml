@@ -2,7 +2,6 @@ collections:
   current-notices:
     output: true
     order:
-      - Subsidiary Legislation Supplement.md
       - Government Gazette.md
       - Sorted by category/.keep
       - Sorted by category/Advertisements.md
@@ -24,3 +23,4 @@ collections:
       - Sorted by category/Vacation of Service.md
       - Bills Supplement.md
       - Acts Supplement.md
+      - Subsidiary Legislation Supplement.md
