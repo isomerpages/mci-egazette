@@ -2,8 +2,8 @@ collections:
   government-gazette-c-n:
     output: true
     order:
-      - 2023/Advertisements.md
-      - 2023/.keep
+      - Advertisements/Advertisements.md
+      - Advertisements/.keep
       - 2022/Acts Supplement.md
       - 2022/.keep
       - 2021/Subsidiary Legislation Supplement.md
