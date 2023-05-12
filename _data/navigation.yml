@@ -5,4 +5,4 @@ links:
   - title: Current Notices
     url: /current-notices-page
   - title: Archives
-    url: /archives-page
+    collection: archives
