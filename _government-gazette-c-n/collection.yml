@@ -2,10 +2,6 @@ collections:
   government-gazette-c-n:
     output: true
     order:
-      - Notices various other Acts/.keep
-      - Notices Constitution/.keep
-      - Notices Company Act/.keep
-      - Notices Bankruptcy Act/.keep
       - Advertisements/.keep
       - Advertisements/Advertisements.md
       - Appointments/.keep
@@ -21,3 +17,7 @@ collections:
       - Dismissals/.keep
       - Dismissals/Statutes.md
       - Leave/.keep
+      - Notices Bankruptcy Act/.keep
+      - Notices Company Act/.keep
+      - Notices Constitution/.keep
+      - Notices various other Acts/.keep
