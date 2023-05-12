@@ -2,6 +2,7 @@ collections:
   current-notices:
     output: true
     order:
+      - Industrial Relations Supp/.keep
       - Government Gazette/.keep
       - Bill Supplement/.keep
       - Acts Supplement/.keep
