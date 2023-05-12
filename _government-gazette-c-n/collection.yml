@@ -2,8 +2,8 @@ collections:
   government-gazette-c-n:
     output: true
     order:
-      - Government Gazette/.keep
-      - Government Gazette/Advertisements.md
+      - Sorted by category/.keep
+      - Sorted by category/Advertisements.md
       - Bills Supplement/.keep
       - Bills Supplement/Acts Supplement.md
       - Acts Supplement/.keep
