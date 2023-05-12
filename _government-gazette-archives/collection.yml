@@ -1,4 +1,5 @@
 collections:
   government-gazette-archives:
     output: true
-    order: []
+    order:
+      - Week Ending 12 May 2023.md
