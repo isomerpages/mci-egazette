@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: Welcome to the eGazette
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       key_highlights:
