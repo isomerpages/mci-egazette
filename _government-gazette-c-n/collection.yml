@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Government Gazette.md
+      - Sorted by category/.keep
+      - Sorted by category/Advertisements.md
       - Sorted by category/Appointments.md
       - Sorted by category/Audited Reports.md
       - Sorted by category/Cessation of Service.md
@@ -19,5 +21,3 @@ collections:
       - Sorted by category/Tenders.md
       - Sorted by category/Termination of Service.md
       - Sorted by category/Vacation of Service.md
-      - Sorted by category/.keep
-      - Sorted by category/Advertisements.md
