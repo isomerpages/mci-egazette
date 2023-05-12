@@ -2,7 +2,6 @@ collections:
   government-gazette-c-n:
     output: true
     order:
-      - Bills Supplement.md
       - Government Gazette.md
       - Sorted by category/.keep
       - Sorted by category/Advertisements.md
@@ -22,3 +21,4 @@ collections:
       - Sorted by category/Tenders.md
       - Sorted by category/Termination of Service.md
       - Sorted by category/Vacation of Service.md
+      - Bills Supplement.md
