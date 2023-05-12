@@ -1,5 +1,5 @@
 collections:
-  current-notices:
+  government-gazette-c-n:
     output: true
     order:
       - Government Gazette/.keep
