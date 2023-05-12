@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Government Gazette.md
+      - Sorted by category/Dismissals.md
       - Sorted by category/Leave.md
       - Sorted by category/Notices under the Bankruptcy Act.md
       - Sorted by category/Notices under the Companies Act.md
