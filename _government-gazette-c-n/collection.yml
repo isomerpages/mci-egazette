@@ -2,6 +2,7 @@ collections:
   government-gazette-c-n:
     output: true
     order:
+      - Notices Constitution/.keep
       - Notices Company Act/.keep
       - Notices Bankruptcy Act/.keep
       - Advertisements/.keep
