@@ -2,4 +2,5 @@ collections:
   government-gazette-archives:
     output: true
     order:
+      - Week Ending May 05, 2023.md
       - Week Ending May 12, 2023.md
