@@ -2,6 +2,7 @@ collections:
   current-notices:
     output: true
     order:
+      - Treaties Supplement.md
       - Government Gazette.md
       - Sorted by category/.keep
       - Sorted by category/Advertisements.md
