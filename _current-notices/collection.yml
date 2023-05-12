@@ -4,8 +4,8 @@ collections:
     order:
       - Government Gazette/.keep
       - Government Gazette/Advertisements.md
-      - Appointments/.keep
-      - Appointments/Acts Supplement.md
+      - Bills Supplement/.keep
+      - Bills Supplement/Acts Supplement.md
       - Audited Reports/.keep
       - Audited Reports/Subsidiary Legislation Supplement.md
       - Cessation of Service/.keep
