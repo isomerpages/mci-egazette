@@ -1,5 +1,5 @@
 collections:
-  government-gazette-c-n:
+  current-notices:
     output: true
     order:
       - Advertisements/.keep
