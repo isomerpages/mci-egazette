@@ -2,6 +2,7 @@ collections:
   government-gazette-c-n:
     output: true
     order:
+      - Notices Bankruptcy Act/.keep
       - Advertisements/.keep
       - Advertisements/Advertisements.md
       - Appointments/.keep
