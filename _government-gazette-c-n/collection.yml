@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Government Gazette.md
+      - Sorted by category/Notices under the Companies Act.md
       - Sorted by category/Notices under the Constitution.md
       - Sorted by category/Notices various other Acts.md
       - Sorted by category/Others.md
