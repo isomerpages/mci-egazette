@@ -2,6 +2,7 @@ collections:
   government-gazette-c-n:
     output: true
     order:
+      - Leave/.keep
       - Advertisements/Advertisements.md
       - Advertisements/.keep
       - Appointments/Acts Supplement.md
