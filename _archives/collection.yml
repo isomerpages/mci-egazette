@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Government Gazette/.keep
-      - Government Gazette/Government Gazette.md
+      - Government Gazette/2023.md
       - Bills Supplement/.keep
