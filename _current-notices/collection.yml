@@ -2,7 +2,6 @@ collections:
   current-notices:
     output: true
     order:
-      - Statutes.md
       - Government Gazette.md
       - Sorted by category/.keep
       - Sorted by category/Advertisements.md
@@ -28,3 +27,4 @@ collections:
       - Industrial Relations Supplement.md
       - Treaties Supplement.md
       - Supplement to Government Gazette.md
+      - Statutes.md
