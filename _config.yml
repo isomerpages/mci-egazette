@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d32trrzjyhalo0.amplifyapp.com
 prod: https://master.d32trrzjyhalo0.amplifyapp.com
-resources_name: archives
+resources_name: government-gazette-archives
