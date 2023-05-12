@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Government Gazette.md
+      - Sorted by category/Termination of Service.md
       - Sorted by category/Vacation of Service.md
       - Sorted by category/.keep
       - Sorted by category/Advertisements.md
