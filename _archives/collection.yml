@@ -2,7 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - Archives Accordion Page.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
