@@ -2,18 +2,18 @@ collections:
   government-gazette-c-n:
     output: true
     order:
-      - Leave/.keep
-      - Advertisements/Advertisements.md
       - Advertisements/.keep
-      - Appointments/Acts Supplement.md
+      - Advertisements/Advertisements.md
       - Appointments/.keep
-      - Audited Reports/Subsidiary Legislation Supplement.md
+      - Appointments/Acts Supplement.md
       - Audited Reports/.keep
-      - Cessation of Service/Industrial Relations Supplement.md
+      - Audited Reports/Subsidiary Legislation Supplement.md
       - Cessation of Service/.keep
-      - Corrigendum/Treaties Supplement.md
+      - Cessation of Service/Industrial Relations Supplement.md
       - Corrigendum/.keep
-      - Death/Supplement to Government Gazette.md
+      - Corrigendum/Treaties Supplement.md
       - Death/.keep
-      - Dismissals/Statutes.md
+      - Death/Supplement to Government Gazette.md
       - Dismissals/.keep
+      - Dismissals/Statutes.md
+      - Leave/.keep
