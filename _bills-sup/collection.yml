@@ -2,6 +2,7 @@ collections:
   bills-sup:
     output: true
     order:
+      - 2008/.keep
       - 2007/.keep
       - 2006/.keep
       - 2005/.keep
