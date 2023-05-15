@@ -1,5 +1,5 @@
 collections:
-  government-gazette-archives:
+  government-gazette:
     output: true
     order:
       - 2023/.keep
