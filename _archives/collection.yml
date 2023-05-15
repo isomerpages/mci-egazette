@@ -2,7 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - Trade Marks Supplement.md
       - Industrial Relations Supplement.md
       - Subsidiary Legislation Supplement.md
       - Government Gazette/.keep
