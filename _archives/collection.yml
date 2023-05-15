@@ -2,7 +2,5 @@ collections:
   archives:
     output: true
     order:
-      - Bills Supplement/.keep
-      - Bills Supplement/2023.md
       - Acts Supplement/2023.md
       - Acts Supplement/.keep
