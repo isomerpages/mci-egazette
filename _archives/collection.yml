@@ -2,7 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - Industrial Relations Supplement.md
       - Subsidiary Legislation Supplement.md
       - Government Gazette/.keep
       - Government Gazette/2023.md
