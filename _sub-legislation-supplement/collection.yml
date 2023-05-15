@@ -1,0 +1,4 @@
+collections:
+  sub-legislation-supplement:
+    output: true
+    order: []
