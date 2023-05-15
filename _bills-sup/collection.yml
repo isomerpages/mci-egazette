@@ -1,4 +1,5 @@
 collections:
   bills-sup:
     output: true
-    order: []
+    order:
+      - Year.md
