@@ -1,6 +1,4 @@
 collections:
   archives:
     output: true
-    order:
-      - Acts Supplement/2023.md
-      - Acts Supplement/.keep
+    order: []
