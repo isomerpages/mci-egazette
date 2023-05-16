@@ -2,6 +2,7 @@ collections:
   revised-subsidiary-legislation:
     output: true
     order:
+      - 2002/.keep
       - 2001/.keep
       - 2000/.keep
       - 1999/.keep
