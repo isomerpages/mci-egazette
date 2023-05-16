@@ -4,7 +4,6 @@ collections:
     order:
       - 1999.md
       - year.md
-      - 2019/.keep
       - 2018/.keep
       - 2017/.keep
       - 2016/.keep
