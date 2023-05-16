@@ -2,6 +2,7 @@ collections:
   treaties-sup:
     output: true
     order:
+      - 2006/.keep
       - 2005/.keep
       - 2004/.keep
       - 2003/.keep
