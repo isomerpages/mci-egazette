@@ -2,7 +2,6 @@ collections:
   revised-subsidiary-legislation:
     output: true
     order:
-      - 2008.md
       - year.md
       - 2014.md
       - 2013.md
@@ -10,3 +9,4 @@ collections:
       - 2011.md
       - 2010.md
       - 2009.md
+      - 2008.md
