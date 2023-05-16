@@ -2,6 +2,7 @@ collections:
   statutes:
     output: true
     order:
+      - 2002.md
       - 2001.md
       - 2000.md
       - 1999.md
