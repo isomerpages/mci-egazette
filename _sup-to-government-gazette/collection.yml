@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 1999.md
-      - 2002/.keep
       - 2001/.keep
       - 2000/.keep
       - 1999/.keep
