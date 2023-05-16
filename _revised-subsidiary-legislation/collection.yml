@@ -4,7 +4,6 @@ collections:
     order:
       - year.md
       - 2014.md
-      - 2003/.keep
       - 2002/.keep
       - 2001/.keep
       - 2000/.keep
