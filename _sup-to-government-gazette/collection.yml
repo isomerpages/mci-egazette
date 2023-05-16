@@ -2,5 +2,6 @@ collections:
   sup-to-government-gazette:
     output: true
     order:
+      - 2001.md
       - 2000.md
       - 1999.md
