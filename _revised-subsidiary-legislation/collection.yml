@@ -2,8 +2,8 @@ collections:
   revised-subsidiary-legislation:
     output: true
     order:
-      - 2014.md
       - year.md
+      - 2014.md
       - 2023/.keep
       - 2022/.keep
       - 2021/.keep
