@@ -2,4 +2,5 @@ collections:
   sup-to-government-gazette:
     output: true
     order:
+      - 1999/.keep
       - 1998/.keep
