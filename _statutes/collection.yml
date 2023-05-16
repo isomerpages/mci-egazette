@@ -2,6 +2,7 @@ collections:
   statutes:
     output: true
     order:
+      - 2016/.keep
       - 2015/.keep
       - 2014/.keep
       - 2013/.keep
