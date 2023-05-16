@@ -1,4 +1,5 @@
 collections:
   trade-marks-sup:
     output: true
-    order: []
+    order:
+      - 1998/.keep
