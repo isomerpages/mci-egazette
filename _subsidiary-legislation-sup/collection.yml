@@ -2,6 +2,7 @@ collections:
   subsidiary-legislation-sup:
     output: true
     order:
+      - 2017/.keep
       - 2018/.keep
       - 2016/.keep
       - 2015/.keep
