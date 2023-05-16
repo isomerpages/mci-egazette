@@ -2,6 +2,7 @@ collections:
   treaties-sup:
     output: true
     order:
+      - 2015/.keep
       - 2014/.keep
       - 2013/.keep
       - 2012/.keep
