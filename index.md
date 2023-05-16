@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to the eGazette
       key_highlights:
         - title: Current Notices
           description: ""
@@ -15,4 +14,5 @@ sections:
         - title: Archives
           description: ""
           url: /archives-page/
+      background: /images/welcome.jpg
 ---
