@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Welcome to the eGazette
-      background: /images/hero-banner.png
       key_highlights:
         - title: Current Notices
           description: ""
