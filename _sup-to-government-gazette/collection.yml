@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 1999.md
-      - 2019/.keep
       - 2018/.keep
       - 2017/.keep
       - 2016/.keep
