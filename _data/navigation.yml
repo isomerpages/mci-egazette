@@ -1,7 +1,5 @@
 logo: /images/mcilogo_horizontal.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Current Notices
     collection: current-notices
   - title: Archives
