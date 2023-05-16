@@ -2,4 +2,5 @@ collections:
   sup-to-government-gazette:
     output: true
     order:
+      - 2000.md
       - 1999.md
