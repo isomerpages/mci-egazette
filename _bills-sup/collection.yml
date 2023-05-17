@@ -2,6 +2,7 @@ collections:
   bills-sup:
     output: true
     order:
+      - 2004.md
       - Year.md
       - 2003.md
       - 2002.md
