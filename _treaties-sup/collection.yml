@@ -2,6 +2,7 @@ collections:
   treaties-sup:
     output: true
     order:
+      - 1999.md
       - year.md
       - 2023/.keep
       - 2022/.keep
