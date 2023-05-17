@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 2000.md
-      - 1998.md
+      - 1999.md
       - Year.md
       - 2023/.keep
       - 2022/.keep
