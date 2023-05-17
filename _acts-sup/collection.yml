@@ -2,13 +2,13 @@ collections:
   acts-sup:
     output: true
     order:
+      - year.md
       - 2003.md
       - 2002.md
       - 2001.md
       - 2000.md
       - 1999.md
       - 1998.md
-      - year.md
       - 2023/.keep
       - 2022/.keep
       - 2021/.keep
