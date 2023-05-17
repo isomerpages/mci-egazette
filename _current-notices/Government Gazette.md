@@ -105,7 +105,6 @@ description: ""
 ||Notice of Resolutions - Extraordinary General Meeting of Otisco Investment Pte. Ltd.|2023-05-12|
 ||Notice to Creditors - Otisco Investment Pte. Ltd.|2023-05-12|
 ||Notice - Estate of Michael Dass s/o D Mariadas, deceased|2023-05-12|
-#REF!
 ||Notice of Final General Meeting - Bloom Classic Singapore Pte. Ltd.|2023-05-12|
 ||Notice - Housing & Development Board|2023-05-12|
 ||Notice of Dividend - Hin Leong Marine International (Pte.) Ltd.|2023-05-12|
