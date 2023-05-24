@@ -2,5 +2,5 @@ collections:
   trade-marks-sup:
     output: true
     order:
-      - year.md
+      - Year.md
       - 1999.md
