@@ -2,7 +2,6 @@ collections:
   acts-sup:
     output: true
     order:
-      - Year.md
       - 2023.md
       - 2022.md
       - 2021.md
