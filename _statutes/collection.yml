@@ -2,7 +2,7 @@ collections:
   statutes:
     output: true
     order:
-      - year.md
+      - Year.md
       - 2022.md
       - 2021.md
       - 2017.md
