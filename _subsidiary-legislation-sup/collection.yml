@@ -2,7 +2,7 @@ collections:
   subsidiary-legislation-sup:
     output: true
     order:
-      - year.md
+      - Year.md
       - 2023/.keep
       - 2022/.keep
       - 2021/.keep
