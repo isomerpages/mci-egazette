@@ -5,11 +5,11 @@ description: ""
 ---
 |Notification No.|Subject|Published Date|
 |---|---|---|
-|1327|Town Councils Act 1988 - Annual estimates for Jalan Besar Town for FY 1-4-2023 to 31-3-2024|2023-05-16|
-|1326|Misuse of Drugs Act 1973 - Public Notification|2023-05-16|
-|1325|Employment of Foreign Manpower Act 1990 - Ng Swee Eng will cease to be Employment Inspector|2023-05-16|
-|1324|Employment Agencies Act 1958 - Ng Swee Eng will cease to be Inspecting Officer|2023-05-16|
-|1323|Employment Act 1968 - Ng Swee Eng will cease to be Inspecting Officer|2023-05-16|
+|1327|[Town Councils Act 1988 - Annual estimates for Jalan Besar Town for FY 1-4-2023 to 31-3-2024](https://6oqtipypk8.execute-api.ap-southeast-1.amazonaws.com/prod/getPDF?filename=23gg1334.pdf)|2023-05-16|
+|1326|[Misuse of Drugs Act 1973 - Public Notification](https://6oqtipypk8.execute-api.ap-southeast-1.amazonaws.com/prod/getPDF?filename=23gg1345.pdf)|2023-05-16|
+|1325|[Employment of Foreign Manpower Act 1990 - Ng Swee Eng will cease to be Employment Inspector](https://6oqtipypk8.execute-api.ap-southeast-1.amazonaws.com/prod/getPDF?filename=23gg1101.pdf)|2023-05-16|
+|1324|[Employment Agencies Act 1958 - Ng Swee Eng will cease to be Inspecting Officer](https://6oqtipypk8.execute-api.ap-southeast-1.amazonaws.com/prod/getPDF?filename=23gg1100.pdf)|2023-05-16|
+|1323|[Employment Act 1968 - Ng Swee Eng will cease to be Inspecting Officer](https://6oqtipypk8.execute-api.ap-southeast-1.amazonaws.com/prod/getPDF?filename=23gg1099.pdf)|2023-05-16|
 |1322|Officer mentioned dismissed from service|2023-05-16|
 ||Notice of Winding Up Application - Digital Alpha Group Pte. Ltd.|2023-05-16|
 ||Notice of Court Application under section 72M(1) of the Insolvency, Restructuring and Dissolution Act 2018 - Axis Group Asia Pte Ltd.|2023-05-16|
