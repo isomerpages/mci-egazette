@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - Acts Supplements.md
       - Government Gazette.md
       - Bills Supplement.md
       - Subsidiary Legislation Supplement.md
