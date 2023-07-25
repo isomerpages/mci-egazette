@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Trade Marks Supplement.md
       - Treaties Supplement.md
       - Supplement to Government Gazette.md
       - Statutes.md
