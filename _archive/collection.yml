@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Acts Supplement.md
       - Subsidiary Legislation Supplement.md
       - Industrial Relations Supplement.md
       - Trade Marks Supplement.md
