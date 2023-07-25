@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Bills Supplement.md
       - Acts Supplement.md
       - Subsidiary Legislation Supplement.md
       - Industrial Relations Supplement.md
@@ -11,4 +12,3 @@ collections:
       - Statutes.md
       - Revised Subsidiary Legislation.md
       - Government Gazette.md
-      - Bills Supplement.md
