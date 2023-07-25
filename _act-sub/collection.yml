@@ -1,4 +1,5 @@
 collections:
   act-sub:
     output: true
-    order: []
+    order:
+      - year.md
