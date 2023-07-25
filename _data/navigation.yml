@@ -4,3 +4,5 @@ links:
     collection: current-notices
   - title: Archives
     collection: archives
+  - title: Menu Title
+    collection: archive
