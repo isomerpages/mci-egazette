@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Revised Subsidiary Legislation.md
       - Government Gazette.md
       - Bills Supplement.md
