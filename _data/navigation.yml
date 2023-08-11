@@ -4,5 +4,9 @@ links:
     collection: current-notices
   - title: Archives
     collection: archives
-  - title: Menu Title
-    collection: archive
+  - title: Government Gazette
+    collection: government-gazette
+  - title: Supplements
+    collection: supplements
+  - title: Legislative Notifications
+    collection: legislative-notifications
