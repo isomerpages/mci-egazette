@@ -1,4 +1,5 @@
 collections:
   legislative-notifications:
     output: true
-    order: []
+    order:
+      - Bills Supplement/.keep
