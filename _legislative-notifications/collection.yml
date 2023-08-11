@@ -2,5 +2,6 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - Subsidiary Legislation/.keep
       - Revised Subsidiary Legislation/.keep
       - Bills Supplement/.keep
