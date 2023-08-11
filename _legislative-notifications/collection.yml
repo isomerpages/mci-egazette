@@ -2,6 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - Bills Supplement/2023.md
       - Bills Supplement/.keep
       - Acts Supplement/.keep
       - Statutes/.keep
