@@ -2,4 +2,5 @@ collections:
   supplements:
     output: true
     order:
+      - Industrial Relations/.keep
       - Supplement to Government/.keep
