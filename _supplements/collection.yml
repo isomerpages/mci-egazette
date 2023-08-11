@@ -1,4 +1,5 @@
 collections:
   supplements:
     output: true
-    order: []
+    order:
+      - Supplement to Government/.keep
