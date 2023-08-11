@@ -1,5 +1,5 @@
 collections:
-  government-gazette:
+  government-gazettes:
     output: true
     order:
       - Year.md
