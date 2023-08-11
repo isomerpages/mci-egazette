@@ -1,0 +1,4 @@
+collections:
+  legislative-notifications:
+    output: true
+    order: []
