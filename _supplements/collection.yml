@@ -2,11 +2,11 @@ collections:
   supplements:
     output: true
     order:
-      - Trade Marks Supplement/2023.md
-      - Trade Marks Supplement/.keep
-      - Supplement to Government/2023.md
       - Supplement to Government/.keep
-      - Industrial Relations/2023.md
+      - Supplement to Government/2023.md
       - Industrial Relations/.keep
-      - Treaties Supplement/2023.md
+      - Industrial Relations/2023.md
+      - Trade Marks Supplement/.keep
+      - Trade Marks Supplement/2023.md
       - Treaties Supplement/.keep
+      - Treaties Supplement/2023.md
