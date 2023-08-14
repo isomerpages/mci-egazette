@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Notices under Bankruptcy Act/2023.md
       - Notices under Bankruptcy Act/.keep
       - Notices under Companies Act/2023.md
       - Notices under Companies Act/.keep
