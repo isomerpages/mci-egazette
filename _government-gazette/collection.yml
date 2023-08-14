@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Vacation of Service/.keep
       - Appointments/2023.md
       - Appointments/.keep
       - Advertisements/2023.md
