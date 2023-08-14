@@ -1,6 +1,0 @@
-collections:
-  trade-marks-sup:
-    output: true
-    order:
-      - Year.md
-      - 1999.md
