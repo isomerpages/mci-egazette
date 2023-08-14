@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Advertisements/2000.md
       - Advertisements/1999.md
       - Advertisements/1998.md
       - Advertisements/.keep
