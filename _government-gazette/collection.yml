@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Cessation of Service/2023.md
       - Cessation of Service/.keep
       - Corrigendum/2023.md
       - Corrigendum/.keep
