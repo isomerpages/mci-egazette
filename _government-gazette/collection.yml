@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Audited Reports/2023.md
       - Audited Reports/.keep
       - Cessation of Service/2023.md
       - Cessation of Service/.keep
