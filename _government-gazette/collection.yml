@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Others/2023.md
       - Others/.keep
       - Revocation/2023.md
       - Revocation/.keep
