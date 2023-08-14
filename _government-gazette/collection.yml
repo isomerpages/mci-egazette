@@ -2,4 +2,5 @@ collections:
   government-gazette:
     output: true
     order:
+      - Advertisements/2023.md
       - Advertisements/.keep
