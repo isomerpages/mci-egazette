@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Advertisements/2012.md
       - Advertisements/2011.md
       - Advertisements/2010.md
       - Advertisements/2009.md
