@@ -2,37 +2,37 @@ collections:
   government-gazette:
     output: true
     order:
-      - Audited Reports/2023.md
-      - Audited Reports/.keep
-      - Cessation of Service/2023.md
-      - Cessation of Service/.keep
-      - Corrigendum/2023.md
-      - Corrigendum/.keep
-      - Death/2023.md
-      - Death/.keep
-      - Dismissals/2023.md
-      - Dismissals/.keep
-      - Leave/2023.md
-      - Leave/.keep
-      - Notices under Bankruptcy Act/2023.md
-      - Notices under Bankruptcy Act/.keep
-      - Notices under Companies Act/2023.md
-      - Notices under Companies Act/.keep
-      - Notices under the Constitution/2023.md
-      - Notices under the Constitution/.keep
-      - Notices under other Acts/2023.md
-      - Notices under other Acts/.keep
-      - Others/2023.md
-      - Others/.keep
-      - Revocation/2023.md
-      - Revocation/.keep
-      - Tenders/2023.md
-      - Tenders/.keep
-      - Termination of Service/2023.md
-      - Termination of Service/.keep
-      - Vacation of Service/2023.md
-      - Vacation of Service/.keep
-      - Appointments/2023.md
-      - Appointments/.keep
-      - Advertisements/2023.md
       - Advertisements/.keep
+      - Advertisements/2023.md
+      - Appointments/.keep
+      - Appointments/2023.md
+      - Audited Reports/.keep
+      - Audited Reports/2023.md
+      - Cessation of Service/.keep
+      - Cessation of Service/2023.md
+      - Corrigendum/.keep
+      - Corrigendum/2023.md
+      - Death/.keep
+      - Death/2023.md
+      - Dismissals/.keep
+      - Dismissals/2023.md
+      - Leave/.keep
+      - Leave/2023.md
+      - Notices under Bankruptcy Act/.keep
+      - Notices under Bankruptcy Act/2023.md
+      - Notices under Companies Act/.keep
+      - Notices under Companies Act/2023.md
+      - Notices under the Constitution/.keep
+      - Notices under the Constitution/2023.md
+      - Notices under other Acts/.keep
+      - Notices under other Acts/2023.md
+      - Others/.keep
+      - Others/2023.md
+      - Revocation/.keep
+      - Revocation/2023.md
+      - Tenders/.keep
+      - Tenders/2023.md
+      - Termination of Service/.keep
+      - Termination of Service/2023.md
+      - Vacation of Service/.keep
+      - Vacation of Service/2023.md
