@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Advertisements/2021.md
       - Advertisements/2020.md
       - Advertisements/2019.md
       - Advertisements/2018.md
