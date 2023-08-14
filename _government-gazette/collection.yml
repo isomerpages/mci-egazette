@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Notices under other Acts/2023.md
       - Notices under other Acts/.keep
       - Others/2023.md
       - Others/.keep
