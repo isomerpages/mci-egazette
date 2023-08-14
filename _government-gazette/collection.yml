@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - Corrigendum/2023.md
       - Corrigendum/.keep
       - Death/2023.md
       - Death/.keep
