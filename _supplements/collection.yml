@@ -2,8 +2,8 @@ collections:
   supplements:
     output: true
     order:
-      - Supplement to Government/.keep
-      - Supplement to Government/2023.md
+      - Government Gazette Supplement/.keep
+      - Government Gazette Supplement/2023.md
       - Industrial Relations/.keep
       - Industrial Relations/2023.md
       - Trade Marks Supplement/.keep
