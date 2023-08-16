@@ -2,6 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - Bills Supplement/2009.md
       - Bills Supplement/2008.md
       - Bills Supplement/2007.md
       - Bills Supplement/2006.md
