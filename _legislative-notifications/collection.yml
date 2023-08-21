@@ -2,6 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - SL Supplement/2007.md
       - SL Supplement/2006.md
       - SL Supplement/2005.md
       - SL Supplement/2004.md
