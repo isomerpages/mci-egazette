@@ -2,33 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
-      - SL Supplement/2023.md
-      - SL Supplement/2022.md
-      - SL Supplement/2021.md
-      - SL Supplement/2020.md
-      - SL Supplement/2019.md
-      - SL Supplement/2018.md
-      - SL Supplement/2017.md
-      - SL Supplement/2016.md
-      - SL Supplement/2015.md
-      - SL Supplement/2014.md
-      - SL Supplement/2013.md
-      - SL Supplement/2012.md
-      - SL Supplement/2011.md
-      - SL Supplement/2010.md
-      - SL Supplement/2009.md
-      - SL Supplement/2008.md
-      - SL Supplement/2007.md
-      - SL Supplement/2006.md
-      - SL Supplement/2005.md
-      - SL Supplement/2004.md
-      - SL Supplement/2003.md
-      - SL Supplement/2002.md
-      - SL Supplement/2001.md
-      - SL Supplement/2000.md
-      - SL Supplement/1999.md
-      - SL Supplement/1998.md
-      - SL Supplement/.keep
+      - Bills Supplement/.keep
       - Bills Supplement/2023.md
       - Bills Supplement/2022.md
       - Bills Supplement/2021.md
@@ -55,7 +29,7 @@ collections:
       - Bills Supplement/2000.md
       - Bills Supplement/1999.md
       - Bills Supplement/1998.md
-      - Bills Supplement/.keep
+      - Acts Supplement/.keep
       - Acts Supplement/2023.md
       - Acts Supplement/2022.md
       - Acts Supplement/2021.md
@@ -82,7 +56,7 @@ collections:
       - Acts Supplement/2000.md
       - Acts Supplement/1999.md
       - Acts Supplement/1998.md
-      - Acts Supplement/.keep
+      - Statutes/.keep
       - Statutes/2023.md
       - Statutes/2022.md
       - Statutes/2021.md
@@ -109,4 +83,30 @@ collections:
       - Statutes/2000.md
       - Statutes/1999.md
       - Statutes/1998.md
-      - Statutes/.keep
+      - SL Supplement/.keep
+      - SL Supplement/2023.md
+      - SL Supplement/2022.md
+      - SL Supplement/2021.md
+      - SL Supplement/2020.md
+      - SL Supplement/2019.md
+      - SL Supplement/2018.md
+      - SL Supplement/2017.md
+      - SL Supplement/2016.md
+      - SL Supplement/2015.md
+      - SL Supplement/2014.md
+      - SL Supplement/2013.md
+      - SL Supplement/2012.md
+      - SL Supplement/2011.md
+      - SL Supplement/2010.md
+      - SL Supplement/2009.md
+      - SL Supplement/2008.md
+      - SL Supplement/2007.md
+      - SL Supplement/2006.md
+      - SL Supplement/2005.md
+      - SL Supplement/2004.md
+      - SL Supplement/2003.md
+      - SL Supplement/2002.md
+      - SL Supplement/2001.md
+      - SL Supplement/2000.md
+      - SL Supplement/1999.md
+      - SL Supplement/1998.md
