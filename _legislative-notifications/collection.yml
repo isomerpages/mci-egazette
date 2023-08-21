@@ -2,6 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - SL Supplement/2023.md
       - SL Supplement/2022.md
       - SL Supplement/2021.md
       - SL Supplement/2020.md
