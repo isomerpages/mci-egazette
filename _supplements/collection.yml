@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Government Gazette Supplement/.keep
-      - Government Gazette Supplement/2023.md
       - IR Supplement/.keep
       - IR Supplement/2023.md
       - Trade Marks Supplement/.keep
