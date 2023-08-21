@@ -2,6 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - Revised SL/2023.md
       - Revised SL/2022.md
       - Revised SL/2021.md
       - Revised SL/2020.md
