@@ -2,6 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - Revised SL/2001.md
       - Revised SL/2000.md
       - Revised SL/1999.md
       - Revised SL/1998.md
