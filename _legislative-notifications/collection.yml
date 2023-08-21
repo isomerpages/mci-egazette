@@ -2,6 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - Revised SL/2018.md
       - Revised SL/2017.md
       - Revised SL/2016.md
       - Revised SL/2015.md
