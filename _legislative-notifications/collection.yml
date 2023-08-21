@@ -2,6 +2,7 @@ collections:
   legislative-notifications:
     output: true
     order:
+      - SL Supplement/2000.md
       - SL Supplement/1999.md
       - SL Supplement/1998.md
       - SL Supplement/.keep
