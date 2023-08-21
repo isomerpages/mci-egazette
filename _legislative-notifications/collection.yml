@@ -2,33 +2,6 @@ collections:
   legislative-notifications:
     output: true
     order:
-      - Revised SL/2023.md
-      - Revised SL/2022.md
-      - Revised SL/2021.md
-      - Revised SL/2020.md
-      - Revised SL/2019.md
-      - Revised SL/2018.md
-      - Revised SL/2017.md
-      - Revised SL/2016.md
-      - Revised SL/2015.md
-      - Revised SL/2014.md
-      - Revised SL/2013.md
-      - Revised SL/2012.md
-      - Revised SL/2011.md
-      - Revised SL/2010.md
-      - Revised SL/2009.md
-      - Revised SL/2008.md
-      - Revised SL/2007.md
-      - Revised SL/2006.md
-      - Revised SL/2005.md
-      - Revised SL/2004.md
-      - Revised SL/2003.md
-      - Revised SL/2002.md
-      - Revised SL/2001.md
-      - Revised SL/2000.md
-      - Revised SL/1999.md
-      - Revised SL/1998.md
-      - Revised SL/.keep
       - Bills Supplement/.keep
       - Bills Supplement/2023.md
       - Bills Supplement/2022.md
@@ -137,3 +110,30 @@ collections:
       - SL Supplement/2000.md
       - SL Supplement/1999.md
       - SL Supplement/1998.md
+      - Revised SL/.keep
+      - Revised SL/2023.md
+      - Revised SL/2022.md
+      - Revised SL/2021.md
+      - Revised SL/2020.md
+      - Revised SL/2019.md
+      - Revised SL/2018.md
+      - Revised SL/2017.md
+      - Revised SL/2016.md
+      - Revised SL/2015.md
+      - Revised SL/2014.md
+      - Revised SL/2013.md
+      - Revised SL/2012.md
+      - Revised SL/2011.md
+      - Revised SL/2010.md
+      - Revised SL/2009.md
+      - Revised SL/2008.md
+      - Revised SL/2007.md
+      - Revised SL/2006.md
+      - Revised SL/2005.md
+      - Revised SL/2004.md
+      - Revised SL/2003.md
+      - Revised SL/2002.md
+      - Revised SL/2001.md
+      - Revised SL/2000.md
+      - Revised SL/1999.md
+      - Revised SL/1998.md
