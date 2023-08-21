@@ -2,6 +2,7 @@ collections:
   supplements:
     output: true
     order:
+      - Government Gazette Supplement/2021.md
       - Government Gazette Supplement/2020.md
       - Government Gazette Supplement/2019.md
       - Government Gazette Supplement/2018.md
