@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: us
 locations:
   - address:
-      - 1 Kim Seng Promenade
-      - "#18-01 Great World City"
-      - East Lobby S(237994)
+      - "1 Kim Seng Promenade, #18-01 "
+      - Great World City, East Lobby
+      - " Singapore 237994"
     operating_hours:
       - days: Mon - Fri
         time: 9.30am - 6.00pm
@@ -15,8 +15,8 @@ locations:
     maps_link: ""
     title: Toppan Leefung Pte. Ltd.
   - address:
-      - 1 Kim Seng Promenade
-      - "#18-01 Great World City"
+      - "1 Kim Seng Promenade, #18-01 "
+      - Great World City, East Lobby
       - Singapore 237994
     operating_hours: []
     maps_link: ""
