@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Ministry of Communication and Information
+agency_name: Ministry of Communications and Information
 locations:
   - address:
       - 1 Kim Seng Promenade
