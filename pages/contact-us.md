@@ -2,12 +2,12 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Ministry of Communications and Information
+agency_name: us
 locations:
   - address:
       - 1 Kim Seng Promenade
       - "#18-01 Great World City"
-      - Singapore 237994
+      - East Lobby S(237994)
     operating_hours:
       - days: Mon - Fri
         time: 9.30am - 6.00pm
