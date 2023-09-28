@@ -12,11 +12,11 @@ permalink: /privacy/
 
 4. If you provide us with personally identifiable data:
 
-(a) we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation.
+a) we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation.
    
-(b) we will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
+b) we will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
    
-(c) for your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
+c) for your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 
 5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
 
@@ -24,6 +24,6 @@ permalink: /privacy/
 
 7. Please contact us using our feedback form if you:
 
-(a) have any enquires or feedback on our data protection policies and procedures,
+a) have any enquires or feedback on our data protection policies and procedures,
 
-(b) need more information on or access to data which you have provided to us in the past.
+b) need more information on or access to data which you have provided to us in the past.
