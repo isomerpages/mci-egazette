@@ -12,7 +12,7 @@ sections:
         Parliamentary Acts/Bills
       key_highlights:
         - title: Current Notice
-          description: Key Highlight description
+          description: ""
           url: /current-notice
   - infobar:
       id: infobar
