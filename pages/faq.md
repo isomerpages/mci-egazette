@@ -6,7 +6,7 @@ permalink: /faq/
 
 Q: Can non-Govt entities place a notice in the Gazette? 
 
-A: Yes, private entities can publish notices as required by legislation under the Advertisements category of the website. Notices must be paid for in advance. Entities interested in publishing can send their request/queries to [legalgaz@toppanleefung.com](mailto:legalgaz@toppanleefung.com).  
+A: Yes, private entities can publish notices as required by legislation under the Advertisements category of the website. Notices must be paid for in advance. Entities interested in publishing can send their request/queries to [legalpub@toppanleefung.com](mailto:legalpub@toppanleefung.com).  
 
 Q: How do I get a hardcopy of a particular Gazette? 
 
@@ -14,4 +14,4 @@ A: You may print copies of Gazettes directly from the eGazette website. It shoul
 
 Q: Where can I view consolidations of Legislation? 
 
-A: Informal consolidations of our Legislation may be viewed on [Singapore Statutes Online](ww.sso.agc.sg).  
+A: consolidations of our Legislation may be viewed on [Singapore Statutes Online](ww.sso.agc.sg).
