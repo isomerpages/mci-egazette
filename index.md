@@ -10,7 +10,6 @@ sections:
       background: /images/2560x1280.png
   - infobar:
       id: infobar
-      description: "The official publication of the Government of Singapore’s Notices
-        and Parliamentary Acts/Bills "
-      button: Button Text
+      description: The official publication of the Government of Singapore’s Notices
+        and Parliamentary Acts/Bills
 ---
