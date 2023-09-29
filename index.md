@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: e-gazette website
-description: "The official publication of the Government of Singapore’s Notices
-  and Parliamentary Acts/Bills "
+title: e-Gazette
+description: The official publication of the Government of Singapore’s Notices
+  and Parliamentary Acts/Bills
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
