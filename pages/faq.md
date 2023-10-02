@@ -14,4 +14,4 @@ A: You may print copies of Gazettes directly from the eGazette website. It shoul
 
 Q: Where can I view consolidations of Legislation? 
 
-A: consolidations of our Legislation may be viewed on [Singapore Statutes Online](ww.sso.agc.sg).
+A: consolidations of our Legislation may be viewed on [Singapore Statutes Online](https://sso.agc.gov.sg).
