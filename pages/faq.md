@@ -4,7 +4,7 @@ permalink: /faq/
 ---
 ### **FAQ**
 
-**Q: Can non-Govt entities place a notice in the Gazette? **
+**Q: Can non-Govt entities place a notice in the Gazette?**
 
 A: Yes, private entities can publish notices as required by legislation under the Advertisements category of the website. Notices must be paid for in advance. Entities interested in publishing can send their request/queries to [legalpub@toppanleefung.com](mailto:legalpub@toppanleefung.com).  
 
