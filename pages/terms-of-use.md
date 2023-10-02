@@ -17,7 +17,7 @@ Thank you for visiting the eGazette website&nbsp;(the “**Website**”). Your a
 (4) For avoidance of doubt, section 48 of the Interpretation Act (Cap. 1) does not apply to anything printed, downloaded or copied from the Website.  
   
 **Privacy Policy**  
-(5)&nbsp; Click&nbsp;[**here**](\Privacy-Statement)&nbsp;to view the Website’s Privacy Statement.  
+(5)&nbsp; Click&nbsp;[**here**](\Privacy)&nbsp;to view the Website’s Privacy Statement.  
   
 **Restrictions on Use**  
 (6)&nbsp; Except as set out in clause&nbsp;(11) of these Terms of Use, the Contents shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of MCI.  
