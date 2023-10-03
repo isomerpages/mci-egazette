@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: eGazette
+title: Singapore Electronic Gazette
 description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/isomer-logo.svg
