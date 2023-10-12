@@ -8,11 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2560x1280.png
+      background: /images/hero banner.png
       subtitle: The official publication of the Government of Singapore’s Notices and
         Parliamentary Acts/Bills
-  - infobar:
-      id: infobar
-      description: The official publication of the Government of Singapore’s Notices
-        and Parliamentary Acts/Bills
 ---
