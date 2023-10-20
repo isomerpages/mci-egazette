@@ -5,7 +5,7 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: This is a beta site
 sections:
   - hero:
       background: /images/hero banner.png
