@@ -17,5 +17,5 @@ sections:
       id: infobar
       description: A print-out from this web site is not a copy of the Gazette printed
         by the Government Printer for the purposes of s 48 of the Interpretation
-        Act (Cap 1) and doe
+        Act (Cap 1)
 ---
