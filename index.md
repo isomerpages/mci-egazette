@@ -12,4 +12,10 @@ sections:
       subtitle: The official publication of the Government of Singapore’s Notices and
         Parliamentary Acts/Bills
       title: This is a beta site
+  - infobar:
+      title: Important
+      id: infobar
+      description: "A print-out from this web site is not a copy of the Gazette
+        printed by the Government Printer for the purposes of s 48 of the
+        Interpretation Act (Cap 1) "
 ---
