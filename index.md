@@ -5,7 +5,10 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Important: A print-out from this web site is not a copy of the
+  Gazette printed by the Government Printer for the purposes of s 48 of the
+  Interpretation Act (Cap 1) and does not constitute admissible prima facie
+  evidence of the contents of the Gazette by virtue of that section."
 sections:
   - hero:
       background: /images/hero banner.png
