@@ -6,3 +6,5 @@ links:
     collection: supplements
   - title: Legislative Gazettes
     collection: legislative-notifications
+  - title: E-Gazette Search
+    url: /egazette-search/
