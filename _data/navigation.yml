@@ -1,10 +1,10 @@
 logo: /images/mcilogo_horizontal.jpg
 links:
+  - title: E-Gazette Search
+    url: /egazette-search/
   - title: Government Gazette
     collection: government-gazette
   - title: Supplements
     collection: supplements
   - title: Legislative Gazettes
     collection: legislative-notifications
-  - title: E-Gazette Search
-    url: /egazette-search/
