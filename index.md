@@ -12,6 +12,8 @@ sections:
       subtitle: The official publication of the Government of Singapore’s Notices and
         Parliamentary Acts/Bills
       title: This is a beta site
+      button: Search e-gazette
+      url: /egazette-search/
   - infobar:
       title: Important
       id: infobar
