@@ -1,5 +1,5 @@
 collections:
-  supplements:
+  other-supplements:
     output: true
     order:
       - Current Notices.md
