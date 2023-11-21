@@ -1,5 +1,5 @@
 collections:
-  legislative-notifications:
+  legislation-supplements:
     output: true
     order:
       - Current Notices.md
