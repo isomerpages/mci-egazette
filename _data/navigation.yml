@@ -4,7 +4,7 @@ links:
     url: /egazette-search/
   - title: Government Gazette
     collection: government-gazette
-  - title: Supplements
-    collection: supplements
-  - title: Legislative Gazettes
+  - title: Legislative Supplements
     collection: legislative-notifications
+  - title: Other Supplements
+    collection: supplements
