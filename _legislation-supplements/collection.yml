@@ -1,0 +1,140 @@
+collections:
+  legislation-supplements:
+    output: true
+    order:
+      - Notices This Week.md
+      - Bills Supplement/.keep
+      - Bills Supplement/2023.md
+      - Bills Supplement/2022.md
+      - Bills Supplement/2021.md
+      - Bills Supplement/2020.md
+      - Bills Supplement/2019.md
+      - Bills Supplement/2018.md
+      - Bills Supplement/2017.md
+      - Bills Supplement/2016.md
+      - Bills Supplement/2015.md
+      - Bills Supplement/2014.md
+      - Bills Supplement/2013.md
+      - Bills Supplement/2012.md
+      - Bills Supplement/2011.md
+      - Bills Supplement/2010.md
+      - Bills Supplement/2009.md
+      - Bills Supplement/2008.md
+      - Bills Supplement/2007.md
+      - Bills Supplement/2006.md
+      - Bills Supplement/2005.md
+      - Bills Supplement/2004.md
+      - Bills Supplement/2003.md
+      - Bills Supplement/2002.md
+      - Bills Supplement/2001.md
+      - Bills Supplement/2000.md
+      - Bills Supplement/1999.md
+      - Bills Supplement/1998.md
+      - Acts Supplement/.keep
+      - Acts Supplement/2023.md
+      - Acts Supplement/2022.md
+      - Acts Supplement/2021.md
+      - Acts Supplement/2020.md
+      - Acts Supplement/2019.md
+      - Acts Supplement/2018.md
+      - Acts Supplement/2017.md
+      - Acts Supplement/2016.md
+      - Acts Supplement/2015.md
+      - Acts Supplement/2014.md
+      - Acts Supplement/2013.md
+      - Acts Supplement/2012.md
+      - Acts Supplement/2011.md
+      - Acts Supplement/2010.md
+      - Acts Supplement/2009.md
+      - Acts Supplement/2008.md
+      - Acts Supplement/2007.md
+      - Acts Supplement/2006.md
+      - Acts Supplement/2005.md
+      - Acts Supplement/2004.md
+      - Acts Supplement/2003.md
+      - Acts Supplement/2002.md
+      - Acts Supplement/2001.md
+      - Acts Supplement/2000.md
+      - Acts Supplement/1999.md
+      - Acts Supplement/1998.md
+      - Revised Acts/.keep
+      - Revised Acts/2023.md
+      - Revised Acts/2022.md
+      - Revised Acts/2021.md
+      - Revised Acts/2020.md
+      - Revised Acts/2019.md
+      - Revised Acts/2018.md
+      - Revised Acts/2017.md
+      - Revised Acts/2016.md
+      - Revised Acts/2015.md
+      - Revised Acts/2014.md
+      - Revised Acts/2013.md
+      - Revised Acts/2012.md
+      - Revised Acts/2011.md
+      - Revised Acts/2010.md
+      - Revised Acts/2009.md
+      - Revised Acts/2008.md
+      - Revised Acts/2007.md
+      - Revised Acts/2006.md
+      - Revised Acts/2005.md
+      - Revised Acts/2004.md
+      - Revised Acts/2003.md
+      - Revised Acts/2002.md
+      - Revised Acts/2001.md
+      - Revised Acts/2000.md
+      - Revised Acts/1999.md
+      - Revised Acts/1998.md
+      - Subsidiary Legislation Supplement/.keep
+      - Subsidiary Legislation Supplement/2023.md
+      - Subsidiary Legislation Supplement/2022.md
+      - Subsidiary Legislation Supplement/2021.md
+      - Subsidiary Legislation Supplement/2020.md
+      - Subsidiary Legislation Supplement/2019.md
+      - Subsidiary Legislation Supplement/2018.md
+      - Subsidiary Legislation Supplement/2017.md
+      - Subsidiary Legislation Supplement/2016.md
+      - Subsidiary Legislation Supplement/2015.md
+      - Subsidiary Legislation Supplement/2014.md
+      - Subsidiary Legislation Supplement/2013.md
+      - Subsidiary Legislation Supplement/2012.md
+      - Subsidiary Legislation Supplement/2011.md
+      - Subsidiary Legislation Supplement/2010.md
+      - Subsidiary Legislation Supplement/2009.md
+      - Subsidiary Legislation Supplement/2008.md
+      - Subsidiary Legislation Supplement/2007.md
+      - Subsidiary Legislation Supplement/2006.md
+      - Subsidiary Legislation Supplement/2005.md
+      - Subsidiary Legislation Supplement/2004.md
+      - Subsidiary Legislation Supplement/2003.md
+      - Subsidiary Legislation Supplement/2002.md
+      - Subsidiary Legislation Supplement/2001.md
+      - Subsidiary Legislation Supplement/2000.md
+      - Subsidiary Legislation Supplement/1999.md
+      - Subsidiary Legislation Supplement/1998.md
+      - Revised Subsidiary Legislation/.keep
+      - Revised Subsidiary Legislation/2023.md
+      - Revised Subsidiary Legislation/2022.md
+      - Revised Subsidiary Legislation/2021.md
+      - Revised Subsidiary Legislation/2020.md
+      - Revised Subsidiary Legislation/2019.md
+      - Revised Subsidiary Legislation/2018.md
+      - Revised Subsidiary Legislation/2017.md
+      - Revised Subsidiary Legislation/2016.md
+      - Revised Subsidiary Legislation/2015.md
+      - Revised Subsidiary Legislation/2014.md
+      - Revised Subsidiary Legislation/2013.md
+      - Revised Subsidiary Legislation/2012.md
+      - Revised Subsidiary Legislation/2011.md
+      - Revised Subsidiary Legislation/2010.md
+      - Revised Subsidiary Legislation/2009.md
+      - Revised Subsidiary Legislation/2008.md
+      - Revised Subsidiary Legislation/2007.md
+      - Revised Subsidiary Legislation/2006.md
+      - Revised Subsidiary Legislation/2005.md
+      - Revised Subsidiary Legislation/2004.md
+      - Revised Subsidiary Legislation/2003.md
+      - Revised Subsidiary Legislation/2002.md
+      - Revised Subsidiary Legislation/2001.md
+      - Revised Subsidiary Legislation/2000.md
+      - Revised Subsidiary Legislation/1999.md
+      - Revised Subsidiary Legislation/1998.md

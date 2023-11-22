@@ -1,0 +1,464 @@
+collections:
+  government-gazette:
+    output: true
+    order:
+      - Notices This Week.md
+      - Advertisements/2023.md
+      - Advertisements/2022.md
+      - Advertisements/2021.md
+      - Advertisements/2020.md
+      - Advertisements/2019.md
+      - Advertisements/2018.md
+      - Advertisements/2017.md
+      - Advertisements/2016.md
+      - Advertisements/2015.md
+      - Advertisements/2014.md
+      - Advertisements/2013.md
+      - Advertisements/2012.md
+      - Advertisements/2011.md
+      - Advertisements/2010.md
+      - Advertisements/2009.md
+      - Advertisements/2008.md
+      - Advertisements/2007.md
+      - Advertisements/2006.md
+      - Advertisements/2005.md
+      - Advertisements/2004.md
+      - Advertisements/2003.md
+      - Advertisements/2002.md
+      - Advertisements/2001.md
+      - Advertisements/2000.md
+      - Advertisements/1999.md
+      - Advertisements/1998.md
+      - Advertisements/.keep
+      - Appointments/2023.md
+      - Appointments/2022.md
+      - Appointments/2021.md
+      - Appointments/2020.md
+      - Appointments/2019.md
+      - Appointments/2018.md
+      - Appointments/2017.md
+      - Appointments/2016.md
+      - Appointments/2015.md
+      - Appointments/2014.md
+      - Appointments/2013.md
+      - Appointments/2012.md
+      - Appointments/2011.md
+      - Appointments/2010.md
+      - Appointments/2009.md
+      - Appointments/2008.md
+      - Appointments/2007.md
+      - Appointments/2006.md
+      - Appointments/2005.md
+      - Appointments/2004.md
+      - Appointments/2003.md
+      - Appointments/2002.md
+      - Appointments/2001.md
+      - Appointments/2000.md
+      - Appointments/1999.md
+      - Appointments/1998.md
+      - Appointments/.keep
+      - Audited Reports/2023.md
+      - Audited Reports/2022.md
+      - Audited Reports/2021.md
+      - Audited Reports/2020.md
+      - Audited Reports/2019.md
+      - Audited Reports/2018.md
+      - Audited Reports/2017.md
+      - Audited Reports/2016.md
+      - Audited Reports/2015.md
+      - Audited Reports/2014.md
+      - Audited Reports/2013.md
+      - Audited Reports/2012.md
+      - Audited Reports/2011.md
+      - Audited Reports/2010.md
+      - Audited Reports/2009.md
+      - Audited Reports/2008.md
+      - Audited Reports/2007.md
+      - Audited Reports/2006.md
+      - Audited Reports/2005.md
+      - Audited Reports/2004.md
+      - Audited Reports/2003.md
+      - Audited Reports/2002.md
+      - Audited Reports/2001.md
+      - Audited Reports/2000.md
+      - Audited Reports/1999.md
+      - Audited Reports/1998.md
+      - Audited Reports/.keep
+      - Cessation of Service/2023.md
+      - Cessation of Service/2022.md
+      - Cessation of Service/2021.md
+      - Cessation of Service/2020.md
+      - Cessation of Service/2019.md
+      - Cessation of Service/2018.md
+      - Cessation of Service/2017.md
+      - Cessation of Service/2016.md
+      - Cessation of Service/2015.md
+      - Cessation of Service/2014.md
+      - Cessation of Service/2013.md
+      - Cessation of Service/2012.md
+      - Cessation of Service/2011.md
+      - Cessation of Service/2010.md
+      - Cessation of Service/2009.md
+      - Cessation of Service/2008.md
+      - Cessation of Service/2007.md
+      - Cessation of Service/2006.md
+      - Cessation of Service/2005.md
+      - Cessation of Service/2004.md
+      - Cessation of Service/2003.md
+      - Cessation of Service/2002.md
+      - Cessation of Service/2001.md
+      - Cessation of Service/2000.md
+      - Cessation of Service/1999.md
+      - Cessation of Service/1998.md
+      - Cessation of Service/.keep
+      - Corrigendum/2023.md
+      - Corrigendum/2022.md
+      - Corrigendum/2021.md
+      - Corrigendum/2020.md
+      - Corrigendum/2019.md
+      - Corrigendum/2018.md
+      - Corrigendum/2017.md
+      - Corrigendum/2016.md
+      - Corrigendum/2015.md
+      - Corrigendum/2014.md
+      - Corrigendum/2013.md
+      - Corrigendum/2012.md
+      - Corrigendum/2011.md
+      - Corrigendum/2010.md
+      - Corrigendum/2009.md
+      - Corrigendum/2008.md
+      - Corrigendum/2007.md
+      - Corrigendum/2006.md
+      - Corrigendum/2005.md
+      - Corrigendum/2004.md
+      - Corrigendum/2003.md
+      - Corrigendum/2002.md
+      - Corrigendum/2001.md
+      - Corrigendum/2000.md
+      - Corrigendum/1999.md
+      - Corrigendum/1998.md
+      - Corrigendum/.keep
+      - Death/2023.md
+      - Death/2022.md
+      - Death/2021.md
+      - Death/2020.md
+      - Death/2019.md
+      - Death/2018.md
+      - Death/2017.md
+      - Death/2016.md
+      - Death/2015.md
+      - Death/2014.md
+      - Death/2013.md
+      - Death/2012.md
+      - Death/2011.md
+      - Death/2010.md
+      - Death/2009.md
+      - Death/2008.md
+      - Death/2007.md
+      - Death/2006.md
+      - Death/2005.md
+      - Death/2004.md
+      - Death/2003.md
+      - Death/2002.md
+      - Death/2001.md
+      - Death/2000.md
+      - Death/1999.md
+      - Death/1998.md
+      - Death/.keep
+      - Dismissals/.keep
+      - Dismissals/2023.md
+      - Dismissals/2022.md
+      - Dismissals/2021.md
+      - Dismissals/2020.md
+      - Dismissals/2019.md
+      - Dismissals/2018.md
+      - Dismissals/2017.md
+      - Dismissals/2016.md
+      - Dismissals/2015.md
+      - Dismissals/2014.md
+      - Dismissals/2013.md
+      - Dismissals/2012.md
+      - Dismissals/2011.md
+      - Dismissals/2010.md
+      - Dismissals/2009.md
+      - Dismissals/2008.md
+      - Dismissals/2007.md
+      - Dismissals/2006.md
+      - Dismissals/2005.md
+      - Dismissals/2004.md
+      - Dismissals/2003.md
+      - Dismissals/2002.md
+      - Dismissals/2001.md
+      - Dismissals/2000.md
+      - Dismissals/1999.md
+      - Dismissals/1998.md
+      - Leave/.keep
+      - Leave/2023.md
+      - Leave/2022.md
+      - Leave/2021.md
+      - Leave/2020.md
+      - Leave/2019.md
+      - Leave/2018.md
+      - Leave/2017.md
+      - Leave/2016.md
+      - Leave/2015.md
+      - Leave/2014.md
+      - Leave/2013.md
+      - Leave/2012.md
+      - Leave/2011.md
+      - Leave/2010.md
+      - Leave/2009.md
+      - Leave/2008.md
+      - Leave/2007.md
+      - Leave/2006.md
+      - Leave/2005.md
+      - Leave/2004.md
+      - Leave/2003.md
+      - Leave/2002.md
+      - Leave/2001.md
+      - Leave/2000.md
+      - Leave/1999.md
+      - Leave/1998.md
+      - Bankruptcy Act Notice/2023.md
+      - Bankruptcy Act Notice/2022.md
+      - Bankruptcy Act Notice/2021.md
+      - Bankruptcy Act Notice/2020.md
+      - Bankruptcy Act Notice/2019.md
+      - Bankruptcy Act Notice/2018.md
+      - Bankruptcy Act Notice/2017.md
+      - Bankruptcy Act Notice/2016.md
+      - Bankruptcy Act Notice/2015.md
+      - Bankruptcy Act Notice/2014.md
+      - Bankruptcy Act Notice/2013.md
+      - Bankruptcy Act Notice/2012.md
+      - Bankruptcy Act Notice/2011.md
+      - Bankruptcy Act Notice/2010.md
+      - Bankruptcy Act Notice/2009.md
+      - Bankruptcy Act Notice/2008.md
+      - Bankruptcy Act Notice/2007.md
+      - Bankruptcy Act Notice/2006.md
+      - Bankruptcy Act Notice/2005.md
+      - Bankruptcy Act Notice/2004.md
+      - Bankruptcy Act Notice/2003.md
+      - Bankruptcy Act Notice/2002.md
+      - Bankruptcy Act Notice/2001.md
+      - Bankruptcy Act Notice/2000.md
+      - Bankruptcy Act Notice/1999.md
+      - Bankruptcy Act Notice/1998.md
+      - Bankruptcy Act Notice/.keep
+      - Companies Act Notice/2023.md
+      - Companies Act Notice/2022.md
+      - Companies Act Notice/2021.md
+      - Companies Act Notice/2020.md
+      - Companies Act Notice/2019.md
+      - Companies Act Notice/2018.md
+      - Companies Act Notice/2017.md
+      - Companies Act Notice/2016.md
+      - Companies Act Notice/2015.md
+      - Companies Act Notice/2014.md
+      - Companies Act Notice/2013.md
+      - Companies Act Notice/2012.md
+      - Companies Act Notice/2011.md
+      - Companies Act Notice/2010.md
+      - Companies Act Notice/2009.md
+      - Companies Act Notice/2008.md
+      - Companies Act Notice/2007.md
+      - Companies Act Notice/2006.md
+      - Companies Act Notice/2005.md
+      - Companies Act Notice/2004.md
+      - Companies Act Notice/2003.md
+      - Companies Act Notice/2002.md
+      - Companies Act Notice/2001.md
+      - Companies Act Notice/2000.md
+      - Companies Act Notice/1999.md
+      - Companies Act Notice/1998.md
+      - Companies Act Notice/.keep
+      - Notices under the Constitution/2023.md
+      - Notices under the Constitution/2022.md
+      - Notices under the Constitution/2021.md
+      - Notices under the Constitution/2020.md
+      - Notices under the Constitution/2019.md
+      - Notices under the Constitution/2018.md
+      - Notices under the Constitution/2017.md
+      - Notices under the Constitution/2016.md
+      - Notices under the Constitution/2015.md
+      - Notices under the Constitution/2014.md
+      - Notices under the Constitution/2013.md
+      - Notices under the Constitution/2012.md
+      - Notices under the Constitution/2011.md
+      - Notices under the Constitution/2010.md
+      - Notices under the Constitution/2009.md
+      - Notices under the Constitution/2008.md
+      - Notices under the Constitution/2007.md
+      - Notices under the Constitution/2006.md
+      - Notices under the Constitution/2005.md
+      - Notices under the Constitution/2004.md
+      - Notices under the Constitution/2003.md
+      - Notices under the Constitution/2002.md
+      - Notices under the Constitution/2001.md
+      - Notices under the Constitution/2000.md
+      - Notices under the Constitution/1999.md
+      - Notices under the Constitution/1998.md
+      - Notices under the Constitution/.keep
+      - Notices under other Acts/2023.md
+      - Notices under other Acts/2022.md
+      - Notices under other Acts/2021.md
+      - Notices under other Acts/2020.md
+      - Notices under other Acts/2019.md
+      - Notices under other Acts/2018.md
+      - Notices under other Acts/2017.md
+      - Notices under other Acts/2016.md
+      - Notices under other Acts/2015.md
+      - Notices under other Acts/2014.md
+      - Notices under other Acts/2013.md
+      - Notices under other Acts/2012.md
+      - Notices under other Acts/2011.md
+      - Notices under other Acts/2010.md
+      - Notices under other Acts/2009.md
+      - Notices under other Acts/2008.md
+      - Notices under other Acts/2007.md
+      - Notices under other Acts/2006.md
+      - Notices under other Acts/2005.md
+      - Notices under other Acts/2004.md
+      - Notices under other Acts/2003.md
+      - Notices under other Acts/2002.md
+      - Notices under other Acts/2001.md
+      - Notices under other Acts/2000.md
+      - Notices under other Acts/1999.md
+      - Notices under other Acts/1998.md
+      - Notices under other Acts/.keep
+      - Others/2023.md
+      - Others/2022.md
+      - Others/2021.md
+      - Others/2020.md
+      - Others/2019.md
+      - Others/2018.md
+      - Others/2017.md
+      - Others/2016.md
+      - Others/2015.md
+      - Others/2014.md
+      - Others/2013.md
+      - Others/2012.md
+      - Others/2011.md
+      - Others/2010.md
+      - Others/2009.md
+      - Others/2008.md
+      - Others/2007.md
+      - Others/2006.md
+      - Others/2005.md
+      - Others/2004.md
+      - Others/2003.md
+      - Others/2002.md
+      - Others/2001.md
+      - Others/2000.md
+      - Others/1999.md
+      - Others/1998.md
+      - Others/.keep
+      - Revocation/2023.md
+      - Revocation/2022.md
+      - Revocation/2021.md
+      - Revocation/2020.md
+      - Revocation/2019.md
+      - Revocation/2018.md
+      - Revocation/2017.md
+      - Revocation/2016.md
+      - Revocation/2015.md
+      - Revocation/2014.md
+      - Revocation/2013.md
+      - Revocation/2012.md
+      - Revocation/2011.md
+      - Revocation/2010.md
+      - Revocation/2009.md
+      - Revocation/2008.md
+      - Revocation/2007.md
+      - Revocation/2006.md
+      - Revocation/2005.md
+      - Revocation/2004.md
+      - Revocation/2003.md
+      - Revocation/2002.md
+      - Revocation/2001.md
+      - Revocation/2000.md
+      - Revocation/1999.md
+      - Revocation/1998.md
+      - Revocation/.keep
+      - Tenders/2023.md
+      - Tenders/2022.md
+      - Tenders/2021.md
+      - Tenders/2020.md
+      - Tenders/2019.md
+      - Tenders/2018.md
+      - Tenders/2017.md
+      - Tenders/2016.md
+      - Tenders/2015.md
+      - Tenders/2014.md
+      - Tenders/2013.md
+      - Tenders/2012.md
+      - Tenders/2011.md
+      - Tenders/2010.md
+      - Tenders/2009.md
+      - Tenders/2008.md
+      - Tenders/2007.md
+      - Tenders/2006.md
+      - Tenders/2005.md
+      - Tenders/2004.md
+      - Tenders/2003.md
+      - Tenders/2002.md
+      - Tenders/2001.md
+      - Tenders/2000.md
+      - Tenders/1999.md
+      - Tenders/1998.md
+      - Tenders/.keep
+      - Termination of Service/2023.md
+      - Termination of Service/2022.md
+      - Termination of Service/2021.md
+      - Termination of Service/2020.md
+      - Termination of Service/2019.md
+      - Termination of Service/2018.md
+      - Termination of Service/2017.md
+      - Termination of Service/2016.md
+      - Termination of Service/2015.md
+      - Termination of Service/2014.md
+      - Termination of Service/2013.md
+      - Termination of Service/2012.md
+      - Termination of Service/2011.md
+      - Termination of Service/2010.md
+      - Termination of Service/2009.md
+      - Termination of Service/2008.md
+      - Termination of Service/2007.md
+      - Termination of Service/2006.md
+      - Termination of Service/2005.md
+      - Termination of Service/2004.md
+      - Termination of Service/2003.md
+      - Termination of Service/2002.md
+      - Termination of Service/2001.md
+      - Termination of Service/2000.md
+      - Termination of Service/1999.md
+      - Termination of Service/1998.md
+      - Termination of Service/.keep
+      - Vacation of Service/2023.md
+      - Vacation of Service/2022.md
+      - Vacation of Service/2021.md
+      - Vacation of Service/2020.md
+      - Vacation of Service/2019.md
+      - Vacation of Service/2018.md
+      - Vacation of Service/2017.md
+      - Vacation of Service/2016.md
+      - Vacation of Service/2015.md
+      - Vacation of Service/2014.md
+      - Vacation of Service/2013.md
+      - Vacation of Service/2012.md
+      - Vacation of Service/2011.md
+      - Vacation of Service/2010.md
+      - Vacation of Service/2009.md
+      - Vacation of Service/2008.md
+      - Vacation of Service/2007.md
+      - Vacation of Service/2006.md
+      - Vacation of Service/2005.md
+      - Vacation of Service/2004.md
+      - Vacation of Service/2003.md
+      - Vacation of Service/2002.md
+      - Vacation of Service/2001.md
+      - Vacation of Service/2000.md
+      - Vacation of Service/1999.md
+      - Vacation of Service/1998.md
+      - Vacation of Service/.keep

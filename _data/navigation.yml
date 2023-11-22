@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/LOGO_egazette_singapore.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: e-Gazette Search
+    url: /egazette-search/
+  - title: Government Gazette
+    collection: government-gazette
+  - title: Legislation Supplements
+    collection: legislation-supplements
+  - title: Other Supplements
+    collection: other-supplements
