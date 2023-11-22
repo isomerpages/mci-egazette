@@ -2,7 +2,7 @@ collections:
   other-supplements:
     output: true
     order:
-      - Current Notices.md
+      - Notices This Week.md
       - Government Gazette Supplement/2023.md
       - Government Gazette Supplement/2022.md
       - Government Gazette Supplement/2021.md

@@ -2,7 +2,7 @@ collections:
   legislation-supplements:
     output: true
     order:
-      - Current Notices.md
+      - Notices This Week.md
       - Bills Supplement/.keep
       - Bills Supplement/2023.md
       - Bills Supplement/2022.md

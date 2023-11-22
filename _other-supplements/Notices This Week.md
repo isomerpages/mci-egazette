@@ -1,5 +1,5 @@
 ---
-title: Current Notices
+title: Notices This Week
 permalink: /supplements/current-notices/
 description: ""
 layout: datagovsg-v2-search

@@ -2,7 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
-      - Current Notices.md
+      - Notices This Week.md
       - Advertisements/2023.md
       - Advertisements/2022.md
       - Advertisements/2021.md
