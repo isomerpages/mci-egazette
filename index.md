@@ -14,6 +14,10 @@ sections:
       title: This is a beta site
       button: Search e-gazette
       url: /egazette-search/
+      key_highlights:
+        - title: Help us improve
+          description: Share your thoughts with us
+          url: https://form.gov.sg/650be3ac8387e0001295508e
   - infobar:
       title: Important
       id: infobar
