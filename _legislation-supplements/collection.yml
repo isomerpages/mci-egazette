@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Notices This Week.md
+      - Bills Supplement/2024.md
       - Bills Supplement/.keep
       - Bills Supplement/2023.md
       - Bills Supplement/2022.md
