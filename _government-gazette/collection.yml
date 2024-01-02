@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Notices This Week.md
+      - Advertisements/2024.md
       - Advertisements/2023.md
       - Advertisements/2022.md
       - Advertisements/2021.md
@@ -30,6 +31,7 @@ collections:
       - Advertisements/1999.md
       - Advertisements/1998.md
       - Advertisements/.keep
+      - Appointments/2024.md
       - Appointments/2023.md
       - Appointments/2022.md
       - Appointments/2021.md
@@ -57,6 +59,7 @@ collections:
       - Appointments/1999.md
       - Appointments/1998.md
       - Appointments/.keep
+      - Audited Reports/2024.md
       - Audited Reports/2023.md
       - Audited Reports/2022.md
       - Audited Reports/2021.md
@@ -84,6 +87,7 @@ collections:
       - Audited Reports/1999.md
       - Audited Reports/1998.md
       - Audited Reports/.keep
+      - Cessation of Service/2024.md
       - Cessation of Service/2023.md
       - Cessation of Service/2022.md
       - Cessation of Service/2021.md
@@ -111,6 +115,7 @@ collections:
       - Cessation of Service/1999.md
       - Cessation of Service/1998.md
       - Cessation of Service/.keep
+      - Corrigendum/2024.md
       - Corrigendum/2023.md
       - Corrigendum/2022.md
       - Corrigendum/2021.md
@@ -138,6 +143,7 @@ collections:
       - Corrigendum/1999.md
       - Corrigendum/1998.md
       - Corrigendum/.keep
+      - Death/2024.md
       - Death/2023.md
       - Death/2022.md
       - Death/2021.md
@@ -165,6 +171,7 @@ collections:
       - Death/1999.md
       - Death/1998.md
       - Death/.keep
+      - Dismissals/2024.md
       - Dismissals/.keep
       - Dismissals/2023.md
       - Dismissals/2022.md
@@ -192,6 +199,7 @@ collections:
       - Dismissals/2000.md
       - Dismissals/1999.md
       - Dismissals/1998.md
+      - Leave/2024.md
       - Leave/.keep
       - Leave/2023.md
       - Leave/2022.md
@@ -219,6 +227,7 @@ collections:
       - Leave/2000.md
       - Leave/1999.md
       - Leave/1998.md
+      - Bankruptcy Act Notice/2024.md
       - Bankruptcy Act Notice/2023.md
       - Bankruptcy Act Notice/2022.md
       - Bankruptcy Act Notice/2021.md
@@ -246,6 +255,7 @@ collections:
       - Bankruptcy Act Notice/1999.md
       - Bankruptcy Act Notice/1998.md
       - Bankruptcy Act Notice/.keep
+      - Companies Act Notice/2024.md
       - Companies Act Notice/2023.md
       - Companies Act Notice/2022.md
       - Companies Act Notice/2021.md
@@ -273,6 +283,7 @@ collections:
       - Companies Act Notice/1999.md
       - Companies Act Notice/1998.md
       - Companies Act Notice/.keep
+      - Notices under the Constitution/2024.md
       - Notices under the Constitution/2023.md
       - Notices under the Constitution/2022.md
       - Notices under the Constitution/2021.md
@@ -300,6 +311,7 @@ collections:
       - Notices under the Constitution/1999.md
       - Notices under the Constitution/1998.md
       - Notices under the Constitution/.keep
+      - Notices under other Acts/2024.md
       - Notices under other Acts/2023.md
       - Notices under other Acts/2022.md
       - Notices under other Acts/2021.md
@@ -327,6 +339,7 @@ collections:
       - Notices under other Acts/1999.md
       - Notices under other Acts/1998.md
       - Notices under other Acts/.keep
+      - Others/2024.md
       - Others/2023.md
       - Others/2022.md
       - Others/2021.md
@@ -354,6 +367,7 @@ collections:
       - Others/1999.md
       - Others/1998.md
       - Others/.keep
+      - Revocation/2024.md
       - Revocation/2023.md
       - Revocation/2022.md
       - Revocation/2021.md
@@ -381,6 +395,7 @@ collections:
       - Revocation/1999.md
       - Revocation/1998.md
       - Revocation/.keep
+      - Tenders/2024.md
       - Tenders/2023.md
       - Tenders/2022.md
       - Tenders/2021.md
@@ -408,6 +423,7 @@ collections:
       - Tenders/1999.md
       - Tenders/1998.md
       - Tenders/.keep
+      - Termination of Service/2024.md
       - Termination of Service/2023.md
       - Termination of Service/2022.md
       - Termination of Service/2021.md
@@ -435,6 +451,7 @@ collections:
       - Termination of Service/1999.md
       - Termination of Service/1998.md
       - Termination of Service/.keep
+      - Vacation of Service/2024.md
       - Vacation of Service/2023.md
       - Vacation of Service/2022.md
       - Vacation of Service/2021.md

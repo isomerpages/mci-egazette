@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Notices This Week.md
+      - Government Gazette Supplement/2024.md
       - Government Gazette Supplement/2023.md
       - Government Gazette Supplement/2022.md
       - Government Gazette Supplement/2021.md
@@ -30,6 +31,7 @@ collections:
       - Government Gazette Supplement/1999.md
       - Government Gazette Supplement/1998.md
       - Government Gazette Supplement/.keep
+      - Industrial Relations Supplement/2024.md
       - Industrial Relations Supplement/2023.md
       - Industrial Relations Supplement/2022.md
       - Industrial Relations Supplement/2021.md
@@ -57,6 +59,7 @@ collections:
       - Industrial Relations Supplement/1999.md
       - Industrial Relations Supplement/1998.md
       - Industrial Relations Supplement/.keep
+      - Trade Marks Supplement/2024.md
       - Trade Marks Supplement/2023.md
       - Trade Marks Supplement/2022.md
       - Trade Marks Supplement/2021.md
@@ -84,6 +87,7 @@ collections:
       - Trade Marks Supplement/1999.md
       - Trade Marks Supplement/1998.md
       - Trade Marks Supplement/.keep
+      - Treaties Supplement/2024.md
       - Treaties Supplement/2023.md
       - Treaties Supplement/2022.md
       - Treaties Supplement/2021.md

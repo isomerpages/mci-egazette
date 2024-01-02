@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Notices This Week.md
+      - Bills Supplement/2024.md
       - Bills Supplement/.keep
       - Bills Supplement/2023.md
       - Bills Supplement/2022.md
@@ -30,6 +31,7 @@ collections:
       - Bills Supplement/2000.md
       - Bills Supplement/1999.md
       - Bills Supplement/1998.md
+      - Acts Supplement/2024.md
       - Acts Supplement/.keep
       - Acts Supplement/2023.md
       - Acts Supplement/2022.md
@@ -57,6 +59,7 @@ collections:
       - Acts Supplement/2000.md
       - Acts Supplement/1999.md
       - Acts Supplement/1998.md
+      - Revised Acts/2024.md
       - Revised Acts/.keep
       - Revised Acts/2023.md
       - Revised Acts/2022.md
@@ -84,6 +87,7 @@ collections:
       - Revised Acts/2000.md
       - Revised Acts/1999.md
       - Revised Acts/1998.md
+      - Subsidiary Legislation Supplement/2024.md
       - Subsidiary Legislation Supplement/.keep
       - Subsidiary Legislation Supplement/2023.md
       - Subsidiary Legislation Supplement/2022.md
@@ -111,6 +115,7 @@ collections:
       - Subsidiary Legislation Supplement/2000.md
       - Subsidiary Legislation Supplement/1999.md
       - Subsidiary Legislation Supplement/1998.md
+      - Revised Subsidiary Legislation/2024.md
       - Revised Subsidiary Legislation/.keep
       - Revised Subsidiary Legislation/2023.md
       - Revised Subsidiary Legislation/2022.md
