@@ -29,7 +29,7 @@ contacts:
     title: Toppan Next Pte. Ltd.
   - content:
       - phone: +65 6826 9691
-      - email: legalpub@toppanleefung.com
+      - email: legalpub@toppannext.com
       - other: ""
     title: Resource Centre
 feedback: https://form.gov.sg/650be3ac8387e0001295508e
