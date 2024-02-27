@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Notices This Week.md
+      - Notices This Week Staging.md
       - Advertisements/2024.md
       - Advertisements/2023.md
       - Advertisements/2022.md
