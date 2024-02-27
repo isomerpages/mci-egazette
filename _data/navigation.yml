@@ -2,9 +2,5 @@ logo: /images/LOGO_egazette_singapore.png
 links:
   - title: e-Gazette Search
     url: /egazette-search/
-  - title: Government Gazette
-    collection: government-gazette
-  - title: Legislation Supplements
-    collection: legislation-supplements
-  - title: Other Supplements
-    collection: other-supplements
+  - title: Staging test
+    url: /government-gazette/current-notices-test/
