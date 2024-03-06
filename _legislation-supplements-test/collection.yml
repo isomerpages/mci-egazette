@@ -1,5 +1,5 @@
 collections:
-  legislation-supplements:
+  legislation-supplements-test:
     output: true
     order:
       - Notices This Week.md
