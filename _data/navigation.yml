@@ -2,5 +2,7 @@ logo: /images/LOGO_egazette_singapore.png
 links:
   - title: e-Gazette Search
     url: /egazette-search/
-  - title: Staging test
+  - title: Government Gazette Staging test
     url: /government-gazette/current-notices-test/
+  - title: Legislative Notifications Staging test
+    url: /legislative-notifications/acts-supplement/2024-test/
