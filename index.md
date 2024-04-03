@@ -9,9 +9,10 @@ notification: ""
 sections:
   - hero:
       background: /images/hero banner.png
-      subtitle: The official publication of the Government of Singapore’s Notices and
+      subtitle:
+        The official publication of the Government of Singapore’s Notices and
         Parliamentary Acts/Bills
-      title: This is a beta site
+      title: This is a beta site hehe
       button: Search e-gazette
       url: /egazette-search/
       key_highlights:
@@ -21,7 +22,8 @@ sections:
   - infobar:
       title: Important
       id: infobar
-      description: A print-out from this web site is not a copy of the Gazette printed
+      description:
+        A print-out from this web site is not a copy of the Gazette printed
         by the Government Printer for the purposes of s 48 of the Interpretation
         Act 1965
 ---
