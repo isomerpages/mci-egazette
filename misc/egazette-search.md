@@ -1,6 +1,5 @@
 ---
 layout: egazette-search
-title: E-Gazette Search
+title: Search the Singapore eGazette
 permalink: /egazette-search/
-breadcrumb: E-Gazette Search
 ---
