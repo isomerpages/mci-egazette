@@ -14,7 +14,7 @@ sections:
         Parliamentary Acts/Bills
       title: This is a beta site
       button: Search e-gazette
-      url: /egazette-search/
+      url: /egazette-search-landing/
       key_highlights:
         - title: Help us improve
           description: Share your thoughts with us
