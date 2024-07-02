@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 **Terms of Use**
 
@@ -10,7 +11,7 @@ Thank you for visiting Singapore Electronic Gazette website&nbsp;(the “**Websi
 (1)&nbsp; These Terms of Use may be amended from time to time without prior or further notice to you. Your use of the Website after any amendment to these Terms of Use will constitute your acceptance of the amended Terms of Use.  
   
 **Proprietary Rights**  
-(2)&nbsp; The Website is owned and maintained by the Government of Singapore (the “**Government**”), represented in these Terms of Use by the Ministry of Communications and Information (“**MCI**”). It is the online repository and platform for publication of electronic Government Gazettes (“**e-Gazettes**”).  
+(2)&nbsp; The Website is owned and maintained by the Government of Singapore (the “**Government**”), represented in these Terms of Use by the Ministry of Digital Development and Information (“**MDDI**”). It is the online repository and platform for publication of electronic Government Gazettes (“**e-Gazettes**”).  
   
 (3)&nbsp; The materials, including but not limited to the e-Gazettes, as well as other text, compilations, graphics, images, software programs and all other kinds of works, comprised in or displayed on the Website (“**the Contents**”) are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by the Government.
 
@@ -20,7 +21,7 @@ Thank you for visiting Singapore Electronic Gazette website&nbsp;(the “**Websi
 (5)&nbsp; Click&nbsp;[**here**](\privacy\)&nbsp;to view the Website’s Privacy Statement.  
   
 **Restrictions on Use**  
-(6)&nbsp; Except as set out in clause&nbsp;(11) of these Terms of Use, the Contents shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of MCI.  
+(6)&nbsp; Except as set out in clause&nbsp;(11) of these Terms of Use, the Contents shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of MDDI.  
   
 (7)&nbsp; Modification of any of the Contents, or use of any of the Contents for any unauthorised purpose, will be a violation of the Government’s copyright and other intellectual property rights.  
   
@@ -127,7 +128,7 @@ Thank you for visiting Singapore Electronic Gazette website&nbsp;(the “**Websi
   &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
   EN-SG">without limiting clause (21) of these Terms of Use, the hyperlinking must not create any suggestion that the Website or the Government is associated or affiliated in any manner with the user, the user’s affiliates and/or the user's website/electronic platform.</span></p></td></tr></tbody></table>
 
-(18)&nbsp; You must obtain MCI’s written permission prior to framing the Website (or any part of it) or any of the Contents, or engaging in similar activities. MCI may, at its sole and absolute discretion, grant (on such conditions as MCI deems fit) or refuse permission for the framing of the Website (or any part of it) or any of the Contents.  
+(18)&nbsp; You must obtain MDDI’s written permission prior to framing the Website (or any part of it) or any of the Contents, or engaging in similar activities. MDDI may, at its sole and absolute discretion, grant (on such conditions as MDDI deems fit) or refuse permission for the framing of the Website (or any part of it) or any of the Contents.  
   
 (19)&nbsp; The Government may, at any time and without ascribing any reason or giving any prior notice, revoke any permission, or modify any permission or the conditions of the permission, granted under clause (17) or (18) of these Terms of Use.  
   
@@ -135,11 +136,11 @@ Thank you for visiting Singapore Electronic Gazette website&nbsp;(the “**Websi
   
 (21)&nbsp; Under no circumstances shall the Government be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites/electronic platforms that link to or frame the Website (or any part of it) or any of the Contents.  
   
-(22)&nbsp; MCI reserves the right to disable any unauthorised links to, or frames of, the Website (or any part of it) or any of the Contents, at any time and without ascribing any reason or giving any notice.  
+(22)&nbsp; MDDI reserves the right to disable any unauthorised links to, or frames of, the Website (or any part of it) or any of the Contents, at any time and without ascribing any reason or giving any notice.  
   
-(23)&nbsp; Without limiting clause (22) of these Terms of Use, MCI reserves the right to, at any time and without ascribing any reason or giving any notice, disable any link to, or any frame of, the Website (or any part of it) or any of the Contents in any website/electronic platform containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful material or information, or material or information that violates any written law or any applicable intellectual property, proprietary, publicity or other rights.  
+(23)&nbsp; Without limiting clause (22) of these Terms of Use, MDDI reserves the right to, at any time and without ascribing any reason or giving any notice, disable any link to, or any frame of, the Website (or any part of it) or any of the Contents in any website/electronic platform containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful material or information, or material or information that violates any written law or any applicable intellectual property, proprietary, publicity or other rights.  
   
-(24)&nbsp; MCI reserves the right to change the URL of the Website or any part of it, at any time and without any notice.  
+(24)&nbsp; MDDI reserves the right to change the URL of the Website or any part of it, at any time and without any notice.  
   
 (25)&nbsp; The Government shall not be liable for any damage, loss or liability of any kind (whether actual, anticipated, consequential, special, economic or otherwise) caused as a result (direct or indirect) of the disabling of any link or frame under clause (22) or (23) or the changing of any URL under clause (24) of these Terms of Use.  
   
