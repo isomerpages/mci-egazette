@@ -5,7 +5,7 @@ variant: markdown
 ---
 **Terms of Use**
 
-Thank you for visiting Singapore Electronic Gazette website&nbsp;(the “**Website**”). Your access and use of the Website constitutes your acceptance of and agreement to be bound by these Terms of Use. If you do not accept these Terms of Use, please discontinue your access and do not use the Website.  
+Thank you for visiting Singapore Electronic Gazette website&nbsp;(the “**Website**”). Your access and use of the Website constitutes your acceptance of and agreement to be bound by these Terms of Use. If you do not accept these Terms of Use, please discontinue your access and do not use the Website.   
   
 **Amendments**  
 (1)&nbsp; These Terms of Use may be amended from time to time without prior or further notice to you. Your use of the Website after any amendment to these Terms of Use will constitute your acceptance of the amended Terms of Use.  
