@@ -5,7 +5,7 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/LOGO_egazette.png
 permalink: /
-notification: "You have been redirected here (www.egazette.gov.sg) as the eGazette website (www.egazette.com.sg) is currently undergoing maintenance. <br/>Thank you for your patience and apologies for any inconvenience caused."
+notification: ""
 sections:
   - hero:
       background: /images/hero banner.png
