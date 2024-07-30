@@ -10,15 +10,12 @@ sections:
   - hero:
       background: /images/hero banner.png
       subtitle:
-        The official publication of the Government of Singapore’s Notices and
-        Parliamentary Acts/Bills
-      title: This is a beta site
+        Published by Authority. This is a beta site
+      title: Government Gazette
       button: Search e-gazette
       url: /egazette-search-landing/
       key_highlights:
-        - title: Help us improve
-          description: Share your thoughts with us
-          url: https://form.gov.sg/650be3ac8387e0001295508e
+        - []
   - infobar:
       title: Important
       id: infobar
