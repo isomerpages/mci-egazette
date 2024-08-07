@@ -1,6 +1,6 @@
 ---
 layout: egazette-search-landing
-title: Search the Singapore eGazette
+title: Search
 permalink: /egazette-search-landing/
 searchUrl: /egazette-search/
 ---
