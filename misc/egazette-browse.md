@@ -1,5 +1,5 @@
 ---
 layout: egazette-search
-title: Browse the Singapore eGazette
+title: Browse
 permalink: /egazette-browse/
 ---
