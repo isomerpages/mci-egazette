@@ -1,6 +1,6 @@
-logo: /images/LOGO_egazette_singapore.png
+logo: /images/LOGO_egazette_singapore_text.png
 links:
-  - title: Search e-Gazettes
+  - title: Search
     url: /egazette-search-landing/
-  - title: Current Notices
+  - title: Browse
     url: /egazette-browse/
