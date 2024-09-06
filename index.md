@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-grey.jpg
+      background: /images/OHSPS.jpg
       subtitle:
         Published by Authority. This is a beta site
       title: Government Gazette
