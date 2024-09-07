@@ -1,4 +1,4 @@
-title: Singapore Electronic Gazette
+title: Republic of Singapore Government Gazette
 url: https://www.egazette.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,8 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: The official publication of the Government of Singapore’s Notices
-  and Parliamentary Acts/Bills
+description: "The official publication of the Government of Singapore’s Notices and Parliamentary Acts and Bills"
 permalink: none
 baseurl: ""
 exclude:
@@ -42,7 +41,7 @@ defaults:
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 paginate: 12
-remote_theme: isomerpages/isomerpages-template@next-gen
+remote_theme: isomerpages/isomerpages-template@next-gen-dgs-staging
 safe: false
 plugins:
   - jekyll-feed
@@ -53,7 +52,7 @@ plugins:
 staging: https://staging.d32trrzjyhalo0.amplifyapp.com
 prod: https://master.d32trrzjyhalo0.amplifyapp.com
 resources_name: resources
-shareicon: /images/LOGO_egazette.png
+shareicon: /images/LOGO_egazette_singapore_text.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
