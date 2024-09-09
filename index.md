@@ -9,13 +9,15 @@ notification: ""
 sections:
   - hero:
       background: /images/OHSPS.jpg
-      subtitle:
-        Published by Authority. This is a beta site
       title: Government Gazette
       button: Search
       url: /egazette-search-landing/
       key_highlights:
         - []
+  - infobar:
+      title: Published by Authority
+      id: infobar
+      description: This is a beta site
   - infobar:
       title: Important
       id: infobar
