@@ -8,7 +8,8 @@ variant: tiptap
 </p>
 <p>The Gazette is published electronically and in print.</p>
 <p>From Sep 1998 to Sep 2024, the Gazette was published electronically on
-<a href="http://www.egazette.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.egazette.com.sg</a>.</p>
+<a href="http://www.egazette.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.egazette.com.sg</a>
+</p>
 <p>From 20 Sep 2024, the Gazette is published electronically on this website.</p>
 <p><strong>Q: Who publishes the Gazette?</strong>
 </p>
