@@ -22,8 +22,7 @@ and in print.</p>
 </p>
 <p>Gazettes published before Sep 1998 are not available on this website.</p>
 <p>Gazettes published before Sep 1998 are available in print and copies are
-available in the Lee Kong Chian Reference Library. Older Gazettes published
-before 1971 may also be found on <a href="https://eresources.nlb.gov.sg/printheritage/" rel="noopener noreferrer nofollow" target="_blank">https://eresources.nlb.gov.sg/printheritage/</a>.</p>
+available in the Lee Kong Chian Reference Library.</p>
 <p><strong>5. What goes into the sub-categories under the main Gazette, e.g. “Advertisements”?</strong>
 </p>
 <p>The Government Printer assigns a sub-category to each Gazette notification
