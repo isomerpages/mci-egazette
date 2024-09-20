@@ -17,7 +17,6 @@ sections:
   - infobar:
       title: Published by Authority
       id: infobar
-      description: This is a beta site
   - infobar:
       title: Important
       id: infobar
