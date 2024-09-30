@@ -1,7 +1,0 @@
-collections:
-  legislation-supplements-test:
-    output: true
-    order:
-      - Notices This Week.md
-      - Acts Supplement/2024.md
-      - Acts Supplement/.keep
