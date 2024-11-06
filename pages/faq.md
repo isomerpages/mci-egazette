@@ -19,9 +19,11 @@ and in print.</p>
 <p>Toppan Next is the Government Printer.</p>
 <p><strong>4. Is this website a complete repository of everything published in the Gazette?</strong>
 </p>
-<p>Gazettes published before Sep 1998 are not available on this website.</p>
 <p>Gazettes published before Sep 1998 are available in print and copies are
-available in the Lee Kong Chian Reference Library.</p>
+available in the Lee Kong Chian Reference Library. Copies may be searched
+using the <a href="https://catalogue.nlb.gov.sg" rel="noopener nofollow" target="_blank">NLB catalogue</a>.
+Older Gazettes published before 1970 may also be found on&nbsp;<a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/nlonline</a>.
+&nbsp;</p>
 <p><strong>5. What goes into the sub-categories under the main Gazette, e.g. “Advertisements”?</strong>
 </p>
 <p>The Government Printer assigns a sub-category to each Gazette notification
