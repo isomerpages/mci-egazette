@@ -5,7 +5,7 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/logo-text.svg
 permalink: /
-notification: ""
+notification: "If you wish to publish any Gazette Notifications on 31 December 2024, please submit them to <a href='mailto:legalgaz@toppannext.com'>legalgaz@toppannext.com</a> by 12pm 27 December 2024, in view of Toppan’s shortened operating hours on 31 December 2024.<br/>Your co-operation & understanding is much appreciated.<br/>Wishing all a Happy New Year in advance."
 sections:
   - hero:
       background: /images/OHSPS.jpg
