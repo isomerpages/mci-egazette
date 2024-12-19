@@ -60,4 +60,12 @@ Lobby Singapore 237994.</p>
 <p><strong>11. Where can I view consolidations of legislation?</strong>
 </p>
 <p>Consolidations of Singapore legislation may be viewed at&nbsp;<a href="https://sso.agc.gov.sg/" rel="noopener nofollow" target="_blank">Singapore Statutes Online</a>.</p>
-<p></p>
+<p><strong>12. Is it possible for me to request the redaction or removal of Gazette notices?</strong>
+</p>
+<p>The Gazette serves the function of public record, and hence needs to abide
+by high standards of integrity and reliability. Hence, once published,
+Gazette notices cannot be removed or modified.&nbsp;</p>
+<p>The respective agencies are responsible for the content of Gazette notices.
+Where a factual error has been made in the content of the original gazette,
+the agency responsible for the notice can publish a corrigendum with the
+correct content.</p>
