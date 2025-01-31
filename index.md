@@ -5,7 +5,7 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/logo-text.svg
 permalink: /
-notification: "If you wish to publish any Gazette Notifications on 28 January 2025, please submit them to <a href='mailto:legalgaz@toppannext.com'>legalgaz@toppannext.com</a> by 12pm 27 January 2025, in view of Toppan’s shortened operating hours on 28 January 2025.<br/>Your co-operation & understanding is much appreciated.<br/>Wishing all a Happy Lunar New Year in advance."
+notification: ""
 sections:
   - hero:
       background: /images/OHSPS.jpg
