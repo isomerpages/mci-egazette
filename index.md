@@ -20,6 +20,8 @@ sections:
   - infobar:
       title: Important
       id: infobar
-      description:
-        A print-out from this website is not a copy of the Gazette printed by the Government Printer for the purposes of section 48 of the Interpretation Act 1965
+      description: This website is the prescribed website under section 48 of the Interpretation Act 1965. Gazettes published on this website on or after 9 March 2025 are prima facie evidence of their contents and prevail over Gazettes published in any other form.
+  - infobar:
+      id: infobar
+      description: A print-out from this website is not a copy of the Gazette printed by the Government Printer for the purposes of section 48 of the Interpretation Act 1965.
 ---
