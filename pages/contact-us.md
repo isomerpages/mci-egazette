@@ -32,5 +32,10 @@ contacts:
       - email: legalpub@toppannext.com
       - other: ""
     title: Resource Centre
+  - content:
+      - phone: +65 6846 3894
+      - email: legalgaz@toppannext.com
+      - other: ""
+    title: eGazette Notices
 feedback: https://form.gov.sg/650be3ac8387e0001295508e
 ---
