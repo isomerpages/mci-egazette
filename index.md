@@ -5,7 +5,7 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/logo-text.svg
 permalink: /
-notification: "If you wish to publish any Gazette Notifications on 31 December 2024, please submit them to <a href='mailto:legalgaz@toppannext.com'>legalgaz@toppannext.com</a> by 12pm 27 December 2024, in view of Toppan’s shortened operating hours on 31 December 2024.<br/>Your co-operation & understanding is much appreciated.<br/>Wishing all a Happy New Year in advance."
+notification: "We like to hear from you, to better serve you. Fill up the survey <a href='https://go.gov.sg/egazpoll'>here</a>."
 sections:
   - hero:
       background: /images/OHSPS.jpg
@@ -20,6 +20,8 @@ sections:
   - infobar:
       title: Important
       id: infobar
-      description:
-        A print-out from this website is not a copy of the Gazette printed by the Government Printer for the purposes of section 48 of the Interpretation Act 1965
+      description: This website is the prescribed website under section 48 of the Interpretation Act 1965. Gazettes published on this website on or after 9 March 2025 are prima facie evidence of their contents and prevail over Gazettes published in any other form.
+  - infobar:
+      id: infobar
+      description: A print-out from this website is not a copy of the Gazette printed by the Government Printer for the purposes of section 48 of the Interpretation Act 1965.
 ---
