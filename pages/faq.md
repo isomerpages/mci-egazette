@@ -8,9 +8,9 @@ variant: tiptap
 </p>
 <p>The Gazette is published electronically and in print.</p>
 <p>From Sep 1998 to 19 Sep 2024, the Gazette was first published electronically
-on <a href="http://www.egazette.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.egazette.com.sg</a>.</p>
+on http://www.egazette.com.sg.</p>
 <p>All gazettes from Sep 1998 till current date are now available on this
-website <a href="https://www.egazette.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.egazette.gov.sg</a>.</p>
+website https://www.egazette.gov.sg.</p>
 <p><strong>2. Who publishes the Gazette?</strong>
 </p>
 <p>The Government Printer is responsible for publishing the Gazette electronically
@@ -54,11 +54,11 @@ prevails over all other forms of the Gazette if there is any inconsistency.</p>
 <p><strong>10. How do I get a hardcopy of a particular Gazette?</strong>
 </p>
 <p>You may print copies of Gazettes directly from this website.</p>
-<p>However, under section 48 of the Interpretation Act 1965, only copies
-of the Gazette printed by the Government Printer are regarded as prima
-facie evidence of their contents.</p>
-<p>If you require such copies, please send your request to the Government
-Printer at&nbsp;<a href="mailto:legalpub@toppannext.com" rel="noopener noreferrer nofollow" target="_blank">legalpub@toppannext.com</a>.
+<p>However, for a print copy of a Gazette to constitute prima facie evidence
+of its contents under section 48 of the Interpretation Act 1965, the printing
+must be done by the Government Printer.</p>
+<p>If you require copies of a Gazette printed by the Government Printer,
+please send your request to the Government Printer at <a href="mailto:legalpub@toppannext.com" rel="noopener noreferrer nofollow" target="_blank">legalpub@toppannext.com</a>.
 Certain copies may be available for purchase at the Government Printer’s
 legal resource centre at 1 Kim Seng Promenade #18-01 Great World City East
 Lobby Singapore 237994.</p>
