@@ -10,7 +10,7 @@ variant: tiptap
 <p>From Sep 1998 to 19 Sep 2024, the Gazette was first published electronically
 on http://www.egazette.com.sg.</p>
 <p>All gazettes from Sep 1998 till current date are now available on this
-website https://www.egazette.gov.sg.</p>
+website <a href="https://www.egazette.gov.sg" rel="noopener nofollow" target="_blank">https://www.egazette.gov.sg</a>.</p>
 <p><strong>2. Who publishes the Gazette?</strong>
 </p>
 <p>The Government Printer is responsible for publishing the Gazette electronically
