@@ -5,7 +5,7 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/logo-text.svg
 permalink: /
-notification: "We like to hear from you, to better serve you. Fill up the survey <a href='https://go.gov.sg/egazpoll'>here</a>."
+notification: "We like to hear from you, to better serve you. <a href='https://go.gov.sg/egazpoll'>Fill up the survey</a>."
 sections:
   - hero:
       background: /images/OHSPS.jpg
