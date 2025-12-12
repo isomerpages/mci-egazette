@@ -5,7 +5,13 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/logo-text.svg
 permalink: /
-notification: "We like to hear from you, to better serve you. <a href='https://go.gov.sg/egazpoll'>Fill up the survey</a>."
+notification: |
+
+  Please take note of the following deadlines for publications of any Gazette Notifications<br><br>
+
+    1. 11am 22 December 2025 for gazettes to be published on 24 December 2025<br>
+    2. 5pm 29 December 2025 for gazettes to be published on 31 December 2025
+
 sections:
   - hero:
       background: /images/OHSPS.jpg
