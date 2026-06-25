@@ -5,7 +5,7 @@ description: The official publication of the Government of Singapore’s Notices
   and Parliamentary Acts/Bills
 image: /images/logo-text.svg
 permalink: /
-
+notification: Please be informed that the eGazette website will undergo scheduled maintenance from Friday 10 Jul 2026 1800 hrs to Saturday 11 Jul 0800 hrs.  During this period, the eGazette website may be temporarily unavailable. We apologise for any inconvenience caused and thank you for your understanding.
 sections:
   - hero:
       background: /images/OHSPS.jpg
